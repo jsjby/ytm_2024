@@ -70,9 +70,17 @@
 
 > [重庆大学2025年接收推免预报名公告](https://yz.cqu.edu.cn/news/2024-06/2161.html)
 
+## 东北大学
+
+> [东北大学预推免信息](http://yz.neu.edu.cn/2024/0729/c5932a266900/page.htm)
+
 ## 兰州大学
 
 > [兰州大学预推免信息](https://mp.weixin.qq.com/s/mJDzb8C-UimoBANGzW81gQ)
+
+## 大连理工大学
+
+> [大连理工大学预推免信息](https://gs.dlut.edu.cn/info/1173/14906.htm)
 
 ## 中国科学院
 
@@ -85,6 +93,10 @@
 【报名截止：8.12】[沈阳自动化研究所](http://www.sia.cas.cn/zpjy/yjsjy/zs/zsgg/202407/t20240719_7231672.html)
 
 【报名截止：8.5】[空间应用工程与技术中心](https://mp.weixin.qq.com/s/4Fs6y3gtXhupCJsHqIVW1Q)
+
+## 中国科学院大学
+
+【报名截止：N/A】[核科学与技术学院](https://nuclear.ucas.ac.cn/index.php/zh-cn/zsjy/zs/bkxz/4200-tm1tz)
 
 ## 西安电子科技大学
 
@@ -140,6 +152,10 @@
 
 【报名截止：8.1】[信息与控制工程学院](https://yzb.xauat.edu.cn/info/1020/6405.htm)
 
+## 内蒙古大学
+
+【报名截止：8.5】[生物医学研究院](https://swyxyjy.imu.edu.cn/info/1146/1446.htm)
+
 ## 南京农业大学
 
 > [南京农业大学预推免](https://zsgz.njau.edu.cn/info/1007/1571.htm)
@@ -147,6 +163,10 @@
 ##  中国人民解放军军事科学院
 
 【报名截止：8.7】[中国人民解放军军事科学院](https://mp.weixin.qq.com/s/t7kIUoykhrrxnJRMi2g9Tw)
+
+##  中国人民解放军信息工程大学
+
+【报名截止：9.25】[信息工程大学](https://mp.weixin.qq.com/s/3JCsfuMNY4Y-I9KNYItBdg)
 
 ##  中国人民解放军空军工程大学
 
