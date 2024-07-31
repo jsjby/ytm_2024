@@ -60,11 +60,15 @@
 
 【报名截止：8.1】[自动化学院](https://automation.seu.edu.cn/2024/0628/c24460a495814/page.htm)
 
-【报名截止：7.31】[仪器科学与工程学院](https://ins.seu.edu.cn/2024/0624/c26759a495168/page.psp)
+~~【报名截止：7.31】[仪器科学与工程学院](https://ins.seu.edu.cn/2024/0624/c26759a495168/page.psp)~~
 
 ## 北京师范大学
 
 【报名截止：8.11】[人工智能学院（第二轮）](https://ai.bnu.edu.cn/ggjxz/tzgg/272ed4fa3c314ff287da4425cf5a8f4e.htm)
+
+## 电子科技大学
+
+【报名截止：8.28】[电子科学与工程学院](https://www.ese.uestc.edu.cn/info/5085/21377.htm)
 
 ## 重庆大学
 
@@ -88,6 +92,8 @@
 
 【报名截止：9.28】[国家空间科学中心](http://www.nssc.cas.cn/yjsb/zsxx/zsdt/202407/t20240705_7213268.html)
 
+【报名截止：9.5】[生物物理研究所](http://ibp.cas.cn/2020jyc/zs/sszs/202407/t20240730_7238140.html)
+
 【报名截止：8.23】[分子细胞科学卓越创新中心](http://www.sibcb.ac.cn/edu/news1.jsp?ID=1205)
 
 【报名截止：8.12】[沈阳自动化研究所](http://www.sia.cas.cn/zpjy/yjsjy/zs/zsgg/202407/t20240719_7231672.html)
@@ -110,9 +116,9 @@
 
 ## 北京邮电大学
 
-【报名截止：7.31】[电子工程学院](https://see.bupt.edu.cn/info/1047/2741.htm)
+~~【报名截止：7.31】[电子工程学院](https://see.bupt.edu.cn/info/1047/2741.htm)~~
 
-【报名截止：7.31】[信息与通信工程学院](https://sice.bupt.edu.cn/info/1013/2326.htm)
+~~【报名截止：7.31】[信息与通信工程学院](https://sice.bupt.edu.cn/info/1013/2326.htm)~~
 
 ## 北京科技大学
 
@@ -124,7 +130,7 @@
 
 ## 南京邮电大学
 
-【报名截止：7.31】[计算机学院、软件学院、网络空间安全学院](https://cs.njupt.edu.cn/2024/0705/c16083a267466/page.htm)
+~~【报名截止：7.31】[计算机学院、软件学院、网络空间安全学院](https://cs.njupt.edu.cn/2024/0705/c16083a267466/page.htm)~~
 
 ## 苏州大学
 
@@ -138,11 +144,13 @@
 
 ## 上海科技大学
 
+【报名截止：9.20】[信息学院](https://sist.shanghaitech.edu.cn/2024/0731/c2863a1100077/page.htm)
+
 【报名截止：9.20】[生命学院](https://slst.shanghaitech.edu.cn/2024/0722/c319a1099384/page.htm)
 
 ## 上海第二工业大学
 
-【报名截止：7.31】[计算机与信息工程学院](https://jxxy.sspu.edu.cn/2024/0628/c2084a155183/page.htm)
+~~【报名截止：7.31】[计算机与信息工程学院](https://jxxy.sspu.edu.cn/2024/0628/c2084a155183/page.htm)~~
 
 ## 山东第一医科大学
 
@@ -151,6 +159,14 @@
 ## 西安建筑科技大学
 
 【报名截止：8.1】[信息与控制工程学院](https://yzb.xauat.edu.cn/info/1020/6405.htm)
+
+## 西安财经大学
+
+> [西安财经大学预推免信息](https://yz.swufe.edu.cn/info/1101/12151.htm)
+
+【报名截止：8.31】[计算机与人工智能学院](https://yzcx.swufe.edu.cn/chaxun/yzb/tms/2025/02_jt/01bm/yxsxz/011.pdf)
+
+【报名截止：8.31】[统计交叉创新研究院](https://yzcx.swufe.edu.cn/chaxun/yzb/tms/2025/02_jt/01bm/yxsxz/098.pdf)
 
 ## 内蒙古大学
 
@@ -175,3 +191,12 @@
 ##  中国人民解放军海军工程大学
 
 【报名截止：8.7】[海军工程大学](https://mp.weixin.qq.com/s/5ta-zmIJifMMTLR4eMNtqg)
+
+##  北京工商大学
+
+【报名截止：8.16】[计算机与人工智能学院](https://mp.weixin.qq.com/s/dRpnxnVw_lUCZtybOavvYA)
+
+##  新乡医学院
+
+【报名截止：8.10】[医学工程学院](https://www.xxmu.edu.cn/yxgcxy/info/1177/3906.htm)
+
