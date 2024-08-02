@@ -42,6 +42,8 @@
 
 【报名截止：9.5】[国优计划](https://yzb.tju.edu.cn/xwzx/zxxx/202407/t20240731_323856.htm)
 
+【报名截止：9.5】[智能与计算学部  国优计划](https://cic.tju.edu.cn/info/1041/5013.htm)
+
 【报名截止：9.15】[佐治亚理工深圳学院](https://mp.weixin.qq.com/s/GRJqGWLVIp_jkSW--dh7jg)
 
 【报名截止：9.14】[医学院](https://mctu.tju.edu.cn/info/1061/3511.htm)
@@ -57,6 +59,8 @@
 【报名截止：8.15】[集成电路学院](https://ic.seu.edu.cn/2024/0704/c47777a496503/page.htm)
 
 【报名截止：8.11】[电子科学与工程学院](https://electronic.seu.edu.cn/2024/0625/c11479a495398/pagem.htm)
+
+【报名截止：8.11】[电子学院](https://mp.weixin.qq.com/s/UvC7I-xx_ZqkK4CXvUUcIQ)
 
 【报名截止：8.8】[息科学与工程学院](https://radio.seu.edu.cn/2024/0630/c19195a496042/pagem.htm)
 
@@ -77,6 +81,10 @@
 ## 北京师范大学
 
 【报名截止：8.11】[人工智能学院（第二轮）](https://ai.bnu.edu.cn/ggjxz/tzgg/272ed4fa3c314ff287da4425cf5a8f4e.htm)
+
+## 同济大学
+
+【报名截止：8.16】 [国优计划](https://gs.tongji.edu.cn/info/1092/3678.htm)
 
 ## 电子科技大学
 
@@ -107,6 +115,8 @@
 【报名截止：9.28】[国家空间科学中心](http://www.nssc.cas.cn/yjsb/zsxx/zsdt/202407/t20240705_7213268.html)
 
 【报名截止：9.5】[生物物理研究所](http://ibp.cas.cn/2020jyc/zs/sszs/202407/t20240730_7238140.html)
+
+【报名截止：9.1】[物理所](https://edu.iphy.ac.cn/moredetail.php?id=44367)
 
 【报名截止：8.23】[分子细胞科学卓越创新中心](http://www.sibcb.ac.cn/edu/news1.jsp?ID=1205)
 
