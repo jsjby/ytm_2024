@@ -132,6 +132,8 @@
 
  > [西安电子科技大学报名信息](https://gr.xidian.edu.cn/info/1074/13515.htm)
 
+【报名截止：9.25】[​生命科学技术学院](https://life.xidian.edu.cn/info/1048/6911.htm)
+
 【报名截止：9.25】[​网络与信息安全学院](https://ce.xidian.edu.cn/info/1324/9854.htm)
 
 【报名截止：9.10】[​人工智能学院](https://sai.xidian.edu.cn/info/1106/9371.htm)
@@ -173,6 +175,8 @@
 【报名截止：9.20】[信息学院](https://sist.shanghaitech.edu.cn/2024/0731/c2863a1100077/page.htm)
 
 【报名截止：9.20】[生命学院](https://slst.shanghaitech.edu.cn/2024/0722/c319a1099384/page.htm)
+
+【报名截止：9.9】[信息科学与技术学院（工程博士）](https://mp.weixin.qq.com/s/QHy3-Qz4fp1KlUBIlg9BXA)
 
 ## 上海第二工业大学
 
