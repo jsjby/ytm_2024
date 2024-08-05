@@ -16,9 +16,19 @@
 
 【报名截止：8.25】[密西根学院](https://www.ji.sjtu.edu.cn/cn/prospective-students-zh/2024-07-19/146793/)
 
+## 南京大学
+
+> [南京大学预推免消息](https://yzb.nju.edu.cn/yw/ca/fd/c48430a707325/page.htm)
+
+## 浙江大学
+
+> [浙江大学预推免消息](http://www.grs.zju.edu.cn/yjszs/2024/0805/c28498a2951455/page.htm)
+
 ## 哈尔滨工业大学
 
 > [哈尔滨工业大学预推免消息](http://yzb.hit.edu.cn/2024/0727/c8822a349360/page.htm)
+
+> [哈尔滨工业大学（威海）预推免消息](https://yjsc.hitwh.edu.cn/2024/0805/c934a185979/page.htm)
 
 【报名截止：N/A】[电气工程及自动化学院](https://hitee.hit.edu.cn/2024/0801/c17101a349641/page.htm)
 
@@ -28,9 +38,9 @@
 
 【报名截止：8.8】[苏州研究院](https://mp.weixin.qq.com/s/KrlnlCTs1r6MiilSC-5sTA)
 
-【报名截止：8.6】[郑州研究院](https://zri.hit.edu.cn/2024/0726/c17214a349299/page.htm)
+【报名截止：8.25】[计算学部](https://computing.hit.edu.cn/2024/0729/c11271a349512/page.htm)
 
-【报名截止：8.5】[计算学部](https://computing.hit.edu.cn/2024/0729/c11271a349512/page.htm)
+【报名截止：8.6】[郑州研究院](https://zri.hit.edu.cn/2024/0726/c17214a349299/page.htm)
 
 ## 国防科技大学
 
@@ -64,13 +74,13 @@
 
 【报名截止：8.8】[息科学与工程学院](https://radio.seu.edu.cn/2024/0630/c19195a496042/pagem.htm)
 
-【报名截止：8.5】[网络空间安全学院](https://cyber.seu.edu.cn/2024/0627/c18223a495771/page.htm)
+~~【报名截止：8.5】[网络空间安全学院](https://cyber.seu.edu.cn/2024/0627/c18223a495771/page.htm)~~
 
-【报名截止：8.3】[生物科学与医学工程学院](https://bme.seu.edu.cn/2024/0702/c480a496237/page.htm)
+~~【报名截止：8.3】[生物科学与医学工程学院](https://bme.seu.edu.cn/2024/0702/c480a496237/page.htm)~~
 
-【报名截止：8.1】[计算机科学与工程学院、软件学院](https://cse.seu.edu.cn/2024/0629/c22646a495911/page.htm)
+~~【报名截止：8.1】[计算机科学与工程学院、软件学院](https://cse.seu.edu.cn/2024/0629/c22646a495911/page.htm)~~
 
-【报名截止：8.1】[自动化学院](https://automation.seu.edu.cn/2024/0628/c24460a495814/page.htm)
+~~【报名截止：8.1】[自动化学院](https://automation.seu.edu.cn/2024/0628/c24460a495814/page.htm)~~
 
 ~~【报名截止：7.31】[仪器科学与工程学院](https://ins.seu.edu.cn/2024/0624/c26759a495168/page.psp)~~
 
@@ -122,7 +132,7 @@
 
 【报名截止：8.12】[沈阳自动化研究所](http://www.sia.cas.cn/zpjy/yjsjy/zs/zsgg/202407/t20240719_7231672.html)
 
-【报名截止：8.5】[空间应用工程与技术中心](https://mp.weixin.qq.com/s/4Fs6y3gtXhupCJsHqIVW1Q)
+~~【报名截止：8.5】[空间应用工程与技术中心](https://mp.weixin.qq.com/s/4Fs6y3gtXhupCJsHqIVW1Q)~~
 
 ## 中国科学院大学
 
@@ -178,6 +188,8 @@
 
 【报名截止：9.9】[信息科学与技术学院（工程博士）](https://mp.weixin.qq.com/s/QHy3-Qz4fp1KlUBIlg9BXA)
 
+【报名截止：9.1】[生物医学工程学院](https://mp.weixin.qq.com/s/VXEDVffNuJ35tzpaYm7yVw)
+
 ## 上海第二工业大学
 
 ~~【报名截止：7.31】[计算机与信息工程学院](https://jxxy.sspu.edu.cn/2024/0628/c2084a155183/page.htm)~~
@@ -188,7 +200,7 @@
 
 ## 西安建筑科技大学
 
-【报名截止：8.1】[信息与控制工程学院](https://yzb.xauat.edu.cn/info/1020/6405.htm)
+~~【报名截止：8.1】[信息与控制工程学院](https://yzb.xauat.edu.cn/info/1020/6405.htm)~~
 
 ## 西安财经大学
 
@@ -200,7 +212,7 @@
 
 ## 内蒙古大学
 
-【报名截止：8.5】[生物医学研究院](https://swyxyjy.imu.edu.cn/info/1146/1446.htm)
+~~【报名截止：8.5】[生物医学研究院](https://swyxyjy.imu.edu.cn/info/1146/1446.htm)~~
 
 ## 南京农业大学
 
