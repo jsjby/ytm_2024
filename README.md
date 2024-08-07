@@ -20,9 +20,13 @@
 
 > [南京大学预推免消息](https://yzb.nju.edu.cn/yw/ca/fd/c48430a707325/page.htm)
 
+【报名截止：9.8】[智能科学与技术学院](https://is.nju.edu.cn/cc/fe/c57160a707838/page.htm)
+
 ## 浙江大学
 
 > [浙江大学预推免消息](http://www.grs.zju.edu.cn/yjszs/2024/0805/c28498a2951455/page.htm)
+
+【报名截止：9.10】[信电学院](http://www.isee.zju.edu.cn/2024/0806/c21109a2951644/page.htm)
 
 【报名截止：9.3】[生命科学研究院](http://lsi.zju.edu.cn/2024/0806/c25130a2951738/page.htm)
 
@@ -174,6 +178,10 @@
 
 ~~【报名截止：7.31】[计算机学院、软件学院、网络空间安全学院](https://cs.njupt.edu.cn/2024/0705/c16083a267466/page.htm)~~
 
+## 东华大学
+
+> [东华大学预推免信息](https://yjszs.dhu.edu.cn/2024/0807/c7127a349630/page.htm)
+
 ## 苏州大学
 
 > [苏州大学预推免信息](https://yjs.suda.edu.cn/e6/4b/c8386a583243/page.htm)
@@ -224,7 +232,7 @@
 
 ##  中国人民解放军军事科学院
 
-【报名截止：8.7】[中国人民解放军军事科学院](https://mp.weixin.qq.com/s/t7kIUoykhrrxnJRMi2g9Tw)
+~~【报名截止：8.7】[中国人民解放军军事科学院](https://mp.weixin.qq.com/s/t7kIUoykhrrxnJRMi2g9Tw)~~
 
 ##  中国人民解放军信息工程大学
 
@@ -236,7 +244,7 @@
 
 ##  中国人民解放军海军工程大学
 
-【报名截止：8.7】[海军工程大学](https://mp.weixin.qq.com/s/5ta-zmIJifMMTLR4eMNtqg)
+~~【报名截止：8.7】[海军工程大学](https://mp.weixin.qq.com/s/5ta-zmIJifMMTLR4eMNtqg)~~
 
 ##  北京工商大学
 
