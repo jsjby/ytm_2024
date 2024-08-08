@@ -26,6 +26,8 @@
 
 > [浙江大学预推免消息](http://www.grs.zju.edu.cn/yjszs/2024/0805/c28498a2951455/page.htm)
 
+【报名截止：9.10】[工程师学院](https://pi.zju.edu.cn/2024/0808/c67026a2952040/page.htm)
+
 【报名截止：9.10】[信电学院](http://www.isee.zju.edu.cn/2024/0806/c21109a2951644/page.htm)
 
 【报名截止：9.3】[生命科学研究院](http://lsi.zju.edu.cn/2024/0806/c25130a2951738/page.htm)
@@ -40,7 +42,9 @@
 
 【报名截止：N/A】[仪器科学与工程学院](http://ise.hit.edu.cn/2024/0731/c16271a349625/page.htm)
 
-[【报名截止：N/A】[新能源学院（威海）](https://newenergy.hitwh.edu.cn/2024/0805/c1522a185985/page.htm)]
+【报名截止：N/A】[新能源学院（威海）](https://newenergy.hitwh.edu.cn/2024/0805/c1522a185985/page.htm)
+
+【报名截止：N/A】[（威海） 计算机科学与技术学院](https://cst.hitwh.edu.cn/2024/0808/c371a186070/page.htm)
 
 【报名截止：9.16】[电子与信息工程学院](https://seie.hit.edu.cn/2024/0801/c17148a349634/page.htm)
 
@@ -65,6 +69,8 @@
 【报名截止：9.15】[佐治亚理工深圳学院](https://mp.weixin.qq.com/s/GRJqGWLVIp_jkSW--dh7jg)
 
 【报名截止：9.14】[医学院](https://mctu.tju.edu.cn/info/1061/3511.htm)
+
+【报名截止：8.30】[卓越工程师](http://yzb.tju.edu.cn/xwzx/zxxx/202408/t20240807_323857.htm)
 
 【报名截止：8.20】[智能计算学部导师团](https://cic.tju.edu.cn/info/1041/4999.htm)
 
@@ -210,9 +216,17 @@
 
 【报名截止：8.11】[人工智能与大数据学院](https://mp.weixin.qq.com/s/7Tufn7FP-jjpB2jbS--LyA)
 
+## 华侨大学
+
+【报名截止：8.11】[计算机科学与技术学院](https://cst.hqu.edu.cn/info/1092/10531.htm)
+
 ## 西安建筑科技大学
 
 ~~【报名截止：8.1】[信息与控制工程学院](https://yzb.xauat.edu.cn/info/1020/6405.htm)~~
+
+## 西北大学
+
+> [西北大学预推免信息](https://yjs.nwu.edu.cn/info/1013/4693.htm)
 
 ## 西安财经大学
 
@@ -240,7 +254,7 @@
 
 ##  中国人民解放军空军工程大学
 
-【报名截止：8.8】[空军工程大学](https://www.afeu.cn:1001/notice-announcement/462/)
+~~【报名截止：8.8】[空军工程大学](https://www.afeu.cn:1001/notice-announcement/462/)~~
 
 ##  中国人民解放军海军工程大学
 
