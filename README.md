@@ -134,6 +134,8 @@
 
 【报名截止：N/A】[软件所](http://www.is.cas.cn/yjsjy2016/zsxx2016/202408/t20240801_7238784.html)
 
+【报名截止：N/A】[空天信息创新研究院](https://mp.weixin.qq.com/s/rIplyOL-qVYyMMA1RptZ7Q)
+
 【报名截止：10.18】[新疆理化技术研究所](http://www.xjipc.cas.cn/yjs/zs/sszs/202406/t20240604_7184062.html)
 
 【报名截止：9.28】[国家空间科学中心](http://www.nssc.cas.cn/yjsb/zsxx/zsdt/202407/t20240705_7213268.html)
