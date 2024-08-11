@@ -30,6 +30,12 @@
 
 【报名截止：9.10】[信电学院](http://www.isee.zju.edu.cn/2024/0806/c21109a2951644/page.htm)
 
+【报名截止：9.10】[伊利诺伊大学厄巴纳香槟校区联合学院](https://zjui.intl.zju.edu.cn/node/2660)
+
+【报名截止：9.9】[海洋学院](http://oc.zju.edu.cn/2024/0810/c52420a2952624/page.htm)
+
+【报名截止：9.6】[计算机学院](http://www.cs.zju.edu.cn/csen/2024/0810/c27006a2952625/page.htm)
+
 【报名截止：9.3】[生命科学研究院](http://lsi.zju.edu.cn/2024/0806/c25130a2951738/page.htm)
 
 ## 哈尔滨工业大学
@@ -82,11 +88,11 @@
 
 【报名截止：8.15】[集成电路学院](https://ic.seu.edu.cn/2024/0704/c47777a496503/page.htm)
 
-【报名截止：8.11】[电子科学与工程学院](https://electronic.seu.edu.cn/2024/0625/c11479a495398/pagem.htm)
+~~【报名截止：8.11】[电子科学与工程学院](https://electronic.seu.edu.cn/2024/0625/c11479a495398/pagem.htm)~~
 
-【报名截止：8.11】[电子学院](https://mp.weixin.qq.com/s/UvC7I-xx_ZqkK4CXvUUcIQ)
+~~【报名截止：8.11】[电子学院](https://mp.weixin.qq.com/s/UvC7I-xx_ZqkK4CXvUUcIQ)~~
 
-【报名截止：8.8】[息科学与工程学院](https://radio.seu.edu.cn/2024/0630/c19195a496042/pagem.htm)
+~~【报名截止：8.8】[息科学与工程学院](https://radio.seu.edu.cn/2024/0630/c19195a496042/pagem.htm)~~
 
 ~~【报名截止：8.5】[网络空间安全学院](https://cyber.seu.edu.cn/2024/0627/c18223a495771/page.htm)~~
 
@@ -104,7 +110,7 @@
 
 ## 北京师范大学
 
-【报名截止：8.11】[人工智能学院（第二轮）](https://ai.bnu.edu.cn/ggjxz/tzgg/272ed4fa3c314ff287da4425cf5a8f4e.htm)
+~~【报名截止：8.11】[人工智能学院（第二轮）](https://ai.bnu.edu.cn/ggjxz/tzgg/272ed4fa3c314ff287da4425cf5a8f4e.htm)~~
 
 ## 同济大学
 
@@ -162,6 +168,8 @@
 
 【报名截止：9.25】[​网络与信息安全学院](https://ce.xidian.edu.cn/info/1324/9854.htm)
 
+【报名截止：9.22】[​卓越工程师学院长三角基地](https://mp.weixin.qq.com/s/_IKz_8qH_TaAGZf-PG9Quw)
+
 【报名截止：9.10】[​人工智能学院](https://sai.xidian.edu.cn/info/1106/9371.htm)
 
 【报名截止：9.10】[​计算机科学与技术学院](https://cs.xidian.edu.cn/info/1003/16583.htm)
@@ -216,11 +224,11 @@
 
 ## 山东第一医科大学
 
-【报名截止：8.11】[人工智能与大数据学院](https://mp.weixin.qq.com/s/7Tufn7FP-jjpB2jbS--LyA)
+~~【报名截止：8.11】[人工智能与大数据学院](https://mp.weixin.qq.com/s/7Tufn7FP-jjpB2jbS--LyA)~~
 
 ## 华侨大学
 
-【报名截止：8.11】[计算机科学与技术学院](https://cst.hqu.edu.cn/info/1092/10531.htm)
+~~【报名截止：8.11】[计算机科学与技术学院](https://cst.hqu.edu.cn/info/1092/10531.htm)~~
 
 ## 西安建筑科技大学
 
@@ -268,5 +276,5 @@
 
 ##  新乡医学院
 
-【报名截止：8.10】[医学工程学院](https://www.xxmu.edu.cn/yxgcxy/info/1177/3906.htm)
+~~【报名截止：8.10】[医学工程学院](https://www.xxmu.edu.cn/yxgcxy/info/1177/3906.htm)~~
 
