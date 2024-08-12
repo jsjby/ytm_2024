@@ -28,6 +28,10 @@
 
 【报名截止：9.10】[工程师学院](https://pi.zju.edu.cn/2024/0808/c67026a2952040/page.htm)
 
+【报名截止：9.10】[软件学院](http://www.cst.zju.edu.cn/2024/0811/c32178a2952716/page.htm)
+
+【报名截止：9.10】[数据科学研究中心](http://cds.zju.edu.cn/a/zsxx/3498.html)
+
 【报名截止：9.10】[信电学院](http://www.isee.zju.edu.cn/2024/0806/c21109a2951644/page.htm)
 
 【报名截止：9.10】[伊利诺伊大学厄巴纳香槟校区联合学院](https://zjui.intl.zju.edu.cn/node/2660)
@@ -44,6 +48,8 @@
 
 > [哈尔滨工业大学（威海）预推免消息](https://yjsc.hitwh.edu.cn/2024/0805/c934a185979/page.htm)
 
+> [哈尔滨工业大学（深圳）预推免消息](https://yzb.hitsz.edu.cn/yzs_common/zsxxxq/index?id=9583acaddb384fc4b31eced3a39df7be&xxlm=04)
+
 【报名截止：N/A】[电气工程及自动化学院](https://hitee.hit.edu.cn/2024/0801/c17101a349641/page.htm)
 
 【报名截止：N/A】[仪器科学与工程学院](http://ise.hit.edu.cn/2024/0731/c16271a349625/page.htm)
@@ -51,6 +57,10 @@
 【报名截止：N/A】[新能源学院（威海）](https://newenergy.hitwh.edu.cn/2024/0805/c1522a185985/page.htm)
 
 【报名截止：N/A】[（威海） 计算机科学与技术学院](https://cst.hitwh.edu.cn/2024/0808/c371a186070/page.htm)
+
+【报名截止：N/A】[威海） 汽车工程学院](https://auto.hitwh.edu.cn/2024/0808/c189a186089/page.htm)
+
+【报名截止：N/A】[材料科学与工程学院](https://mse.hit.edu.cn/2024/0809/c16847a350850/page.htm)
 
 【报名截止：9.16】[电子与信息工程学院](https://seie.hit.edu.cn/2024/0801/c17148a349634/page.htm)
 
@@ -152,7 +162,7 @@
 
 【报名截止：8.23】[分子细胞科学卓越创新中心](http://www.sibcb.ac.cn/edu/news1.jsp?ID=1205)
 
-【报名截止：8.12】[沈阳自动化研究所](http://www.sia.cas.cn/zpjy/yjsjy/zs/zsgg/202407/t20240719_7231672.html)
+~~【报名截止：8.12】[沈阳自动化研究所](http://www.sia.cas.cn/zpjy/yjsjy/zs/zsgg/202407/t20240719_7231672.html)~~
 
 ~~【报名截止：8.5】[空间应用工程与技术中心](https://mp.weixin.qq.com/s/4Fs6y3gtXhupCJsHqIVW1Q)~~
 
@@ -184,6 +194,8 @@
 
 > [北京科技大学预推免信息](https://gs.bjtu.edu.cn/cms/zszt/item/3011.html)
 
+【报名截止：8.30】[计算机与通信工程学院](https://scce.ustb.edu.cn/xinwentongzhi/tongzhigonggao/2024-08-10/2093.html)
+
 【报名截止：8.30】[智能科学与技术学院](https://ai.ustb.edu.cn/xwgg/tzgg/908112fddf1441dbb189557b9b768cfe.htm)
 
 ## 南京航空航天大学
@@ -207,6 +219,10 @@
  ## 湖南师范大学
 
 > [湖南师范大学预推免信息](https://yjsy.hunnu.edu.cn/info/1027/15163.htm)
+
+ ## 暨南大学
+
+> [暨南大学预推免信息](https://yz.jnu.edu.cn/2024/0810/c33059a819263/page.htm)
 
 ## 上海科技大学
 
@@ -261,6 +277,10 @@
 ##  中国人民解放军信息工程大学
 
 【报名截止：9.25】[信息工程大学](https://mp.weixin.qq.com/s/3JCsfuMNY4Y-I9KNYItBdg)
+
+##  中国航空工业集团公司
+
+> [西安飞行自动控制研究所](https://mp.weixin.qq.com/s/fgszexKIliZSSVGMWN4gfA)
 
 ##  中国人民解放军空军工程大学
 
