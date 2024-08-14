@@ -62,6 +62,8 @@
 
 【报名截止：N/A】[材料科学与工程学院](https://mse.hit.edu.cn/2024/0809/c16847a350850/page.htm)
 
+【报名截止：N/A】[交通科学与工程学院](https://jtxy.hit.edu.cn/2024/0813/c6085a350981/page.htm)
+
 【报名截止：9.16】[电子与信息工程学院](https://seie.hit.edu.cn/2024/0801/c17148a349634/page.htm)
 
 【报名截止：8.25】[计算学部](https://computing.hit.edu.cn/2024/0729/c11271a349512/page.htm)
@@ -209,6 +211,10 @@
 ## 东华大学
 
 > [东华大学预推免信息](https://yjszs.dhu.edu.cn/2024/0807/c7127a349630/page.htm)
+
+## 深圳大学
+
+> [深圳大学预推免信息](https://yz.szu.edu.cn/info/1041/12989.htm)
 
 ## 苏州大学
 
