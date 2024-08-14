@@ -22,6 +22,8 @@
 
 【报名截止：9.8】[智能科学与技术学院](https://is.nju.edu.cn/cc/fe/c57160a707838/page.htm)
 
+【报名截止：9.3】[匡亚明学院](https://dii.nju.edu.cn/d2/25/c11317a709157/page.htm)
+
 ## 浙江大学
 
 > [浙江大学预推免消息](http://www.grs.zju.edu.cn/yjszs/2024/0805/c28498a2951455/page.htm)
@@ -118,7 +120,7 @@
 
 ## 北京航空航天大学
 
-【报名截止：8.14】[无人系统研究院 ](https://wrj.buaa.edu.cn/info/1008/2226.htm)
+~~【报名截止：8.14】[无人系统研究院 ](https://wrj.buaa.edu.cn/info/1008/2226.htm)~~
 
 ## 北京师范大学
 
@@ -156,7 +158,11 @@
 
 【报名截止：10.18】[新疆理化技术研究所](http://www.xjipc.cas.cn/yjs/zs/sszs/202406/t20240604_7184062.html)
 
+【报名截止：9.30】[上海高等研究院](http://www.sari.cas.cn/gradedu/gdzssz/gdtms/202408/t20240814_7266181.html)
+
 【报名截止：9.28】[国家空间科学中心](http://www.nssc.cas.cn/yjsb/zsxx/zsdt/202407/t20240705_7213268.html)
+
+【报名截止：9.24】[上海应用物理研究所](http://www.sinap.cas.cn/yjsjynew/zsjz/sszs_177904/202408/t20240814_7269865.html)
 
 【报名截止：9.5】[生物物理研究所](http://ibp.cas.cn/2020jyc/zs/sszs/202407/t20240730_7238140.html)
 
