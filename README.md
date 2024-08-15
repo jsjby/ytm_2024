@@ -30,6 +30,8 @@
 
 【报名截止：9.10】[工程师学院](https://pi.zju.edu.cn/2024/0808/c67026a2952040/page.htm)
 
+【报名截止：9.10】[控制科学与工程学院](http://www.cse.zju.edu.cn/2024/0810/c39333a2952621/page.htm)
+
 【报名截止：9.10】[软件学院](http://www.cst.zju.edu.cn/2024/0811/c32178a2952716/page.htm)
 
 【报名截止：9.10】[数据科学研究中心](http://cds.zju.edu.cn/a/zsxx/3498.html)
@@ -93,6 +95,8 @@
 【报名截止：8.30】[卓越工程师](http://yzb.tju.edu.cn/xwzx/zxxx/202408/t20240807_323857.htm)
 
 【报名截止：8.20】[智能计算学部导师团](https://cic.tju.edu.cn/info/1041/4999.htm)
+
+【报名截止：8.18】[宣怀学院科创硕士项目](https://mp.weixin.qq.com/s/QpulB9uJsXiwX6Eig7DaSg)
 
 ## 东南大学
 
@@ -160,7 +164,11 @@
 
 【报名截止：9.30】[上海高等研究院](http://www.sari.cas.cn/gradedu/gdzssz/gdtms/202408/t20240814_7266181.html)
 
+【报名截止：9.30】[微小卫星创新研究院](https://microsate.cas.cn/yajsjy/sszsxx/202408/t20240815_7273355.html)
+
 【报名截止：9.28】[国家空间科学中心](http://www.nssc.cas.cn/yjsb/zsxx/zsdt/202407/t20240705_7213268.html)
+
+【报名截止：9.25】[上海微系统与信息技术研究所](https://sim.cas.cn/yjs/zsxx/yjs_sszs/202408/t20240815_7273382.html)
 
 【报名截止：9.24】[上海应用物理研究所](http://www.sinap.cas.cn/yjsjynew/zsjz/sszs_177904/202408/t20240814_7269865.html)
 
@@ -221,6 +229,8 @@
 ## 深圳大学
 
 > [深圳大学预推免信息](https://yz.szu.edu.cn/info/1041/12989.htm)
+
+【报名截止：N/A】[微众银行金融科技学院](https://mp.weixin.qq.com/s/yBtuB0LLxEWFJlMTAO7y9g)
 
 ## 苏州大学
 
