@@ -4,9 +4,37 @@
 
 ## 清华大学
 
-> [清华大学预推免信息](https://yz.tsinghua.edu.cn/info/1008/2796.htm)
+> [清华大学预推免信息](https://yz.tsinghua.edu.cn/info/1008/2796.htm) | > [清华大学博士各学院预推免信息](https://yz.tsinghua.edu.cn/info/1010/2808.htm)
 
 > 申请服务系统定于2024年8月23日12:00开放，2024年9月2日12:00关闭
+
+【报名截止：9.2】[深圳国际研究生院](https://yzbm.tsinghua.edu.cn/publish/s03/s0302/detail/cb844d46-ba07-4e06-a814-e492a5a8c7a0?yxsdm=599)
+
+【报名截止：9.2】[软件学院](https://yzbm.tsinghua.edu.cn/publish/s03/s0302/detail/8d9fc0c1-e14e-45d8-91eb-1909eeb6b996?yxsdm=410)
+
+【报名截止：9.2】[电机工程与应用电子技术系](https://yzbm.tsinghua.edu.cn/publish/s03/s0302/detail/89272fbc-f2bd-41b7-b4e8-c99276b1d9c2?yxsdm=022)
+
+【报名截止：9.2】[电子工程系](https://yzbm.tsinghua.edu.cn/publish/s03/s0302/detail/ca177881-23ed-4d30-8600-b1882b74d623?yxsdm=023)
+
+【报名截止：9.2】[法学院](https://yzbm.tsinghua.edu.cn/publish/s03/s0302/detail/62c89c2a-27d1-4129-bb9d-aadaa3ee2ecb?yxsdm=066)
+
+【报名截止：9.2】[工业工程系](https://yzbm.tsinghua.edu.cn/publish/s03/s0302/detail/72ef6b22-c7af-417d-803e-3c2e1b362ebe?yxsdm=016)
+
+【报名截止：9.2】[航天航空学院](https://yzbm.tsinghua.edu.cn/publish/s03/s0302/detail/e15a9be3-6a1c-4fef-957e-073f2e83e04c?yxsdm=031)
+
+【报名截止：9.2】[交叉信息研究院](https://yzbm.tsinghua.edu.cn/publish/s03/s0302/detail/5de6afb2-c313-42a2-8372-1a49b851fe1f?yxsdm=047)
+
+【报名截止：9.2】[人工智能学院](https://yzbm.tsinghua.edu.cn/publish/s03/s0302/detail/65843094-4e3a-4290-ac3f-4383729fb21a?yxsdm=094)
+
+【报名截止：9.2】[生物医学工程学院](https://yzbm.tsinghua.edu.cn/publish/s03/s0302/detail/b775e94f-d2d2-4a61-8ebb-60437efe9fe9?yxsdm=502)
+
+【报名截止：9.2】[统计与数据科学系](https://yzbm.tsinghua.edu.cn/publish/s03/s0302/detail/b5486b29-e767-4b4e-acf8-1f7f44409cb0?yxsdm=088)
+
+【报名截止：9.2】[网络科学与网络空间研究院](https://yzbm.tsinghua.edu.cn/publish/s03/s0302/detail/cf455e69-13d6-41c7-9d1d-58a047a2c003?yxsdm=412)
+
+【报名截止：9.2】[生命科学学院](https://yzbm.tsinghua.edu.cn/publish/s03/s0302/detail/97f137dd-7a12-4184-bd8f-e4dcf8864af1?yxsdm=045)
+
+【报名截止：9.2】[环境学院](https://yzbm.tsinghua.edu.cn/publish/s03/s0302/detail/ab25be03-bffa-4c0b-9603-7c3d7311b953?yxsdm=005)
 
 【报名截止：9.1】[高等研究院](https://www.ias.tsinghua.edu.cn/zsxx.htm)
 
@@ -104,7 +132,7 @@
 
 【报名截止：N/A】[PALM实验室](https://palm.seu.edu.cn/application.html)
 
-【报名截止：8.15】[集成电路学院](https://ic.seu.edu.cn/2024/0704/c47777a496503/page.htm)
+~~【报名截止：8.15】[集成电路学院](https://ic.seu.edu.cn/2024/0704/c47777a496503/page.htm)~~
 
 ~~【报名截止：8.11】[电子科学与工程学院](https://electronic.seu.edu.cn/2024/0625/c11479a495398/pagem.htm)~~
 
@@ -132,7 +160,7 @@
 
 ## 同济大学
 
-【报名截止：8.16】 [国优计划](https://gs.tongji.edu.cn/info/1092/3678.htm)
+~~【报名截止：8.16】 [国优计划](https://gs.tongji.edu.cn/info/1092/3678.htm)~~
 
 ## 电子科技大学
 
@@ -314,7 +342,7 @@
 
 ##  北京工商大学
 
-【报名截止：8.16】[计算机与人工智能学院](https://mp.weixin.qq.com/s/dRpnxnVw_lUCZtybOavvYA)
+~~【报名截止：8.16】[计算机与人工智能学院](https://mp.weixin.qq.com/s/dRpnxnVw_lUCZtybOavvYA)~~
 
 ##  新乡医学院
 
