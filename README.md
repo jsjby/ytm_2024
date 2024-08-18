@@ -36,6 +36,8 @@
 
 【报名截止：9.2】[环境学院](https://yzbm.tsinghua.edu.cn/publish/s03/s0302/detail/ab25be03-bffa-4c0b-9603-7c3d7311b953?yxsdm=005)
 
+【报名截止：9.2】[车辆与运载学院](https://yzbm.tsinghua.edu.cn/publish/s03/s0302/detail/8cc82ff0-1f7f-4642-a216-590ddccb5948?yxsdm=015)
+
 【报名截止：9.1】[高等研究院](https://www.ias.tsinghua.edu.cn/zsxx.htm)
 
 > 清华大学高等研究院只招收直博生，包含物理学(含天体物理）、网络空间安全、计算机科学与技术三个专业。
@@ -97,6 +99,8 @@
 【报名截止：N/A】[交通科学与工程学院](https://jtxy.hit.edu.cn/2024/0813/c6085a350981/page.htm)
 
 【报名截止：9.16】[电子与信息工程学院](https://seie.hit.edu.cn/2024/0801/c17148a349634/page.htm)
+
+【报名截止：9.9】[（深圳） 计算机科学与技术学院](http://cs.hitsz.edu.cn/info/1029/7452.htm)
 
 【报名截止：8.25】[计算学部](https://computing.hit.edu.cn/2024/0729/c11271a349512/page.htm)
 
