@@ -108,6 +108,10 @@
 
 【报名截止：N/A】[（深圳）空间科学与应用技术研究院](http://issat.hitsz.edu.cn/currency.jsp?urltype=news.NewsContentUrl&wbtreeid=1079&wbnewsid=2711)
 
+【报名截止：N/A】[（深圳）机电工程与自动化学院](http://smea.hitsz.edu.cn/info/1014/2531.htm)
+
+【报名截止：9.3】[（深圳）土木与环境工程学院](http://sce.hitsz.edu.cn/info/1009/5770.htm)
+
 【报名截止：9.16】[电子与信息工程学院](https://seie.hit.edu.cn/2024/0801/c17148a349634/page.htm)
 
 【报名截止：9.9】[（深圳） 计算机科学与技术学院](http://cs.hitsz.edu.cn/info/1029/7452.htm)
@@ -136,7 +140,7 @@
 
 【报名截止：8.30】[卓越工程师](http://yzb.tju.edu.cn/xwzx/zxxx/202408/t20240807_323857.htm)
 
-【报名截止：8.20】[智能计算学部导师团](https://cic.tju.edu.cn/info/1041/4999.htm)
+~~【报名截止：8.20】[智能计算学部导师团](https://cic.tju.edu.cn/info/1041/4999.htm)~~
 
 ~~【报名截止：8.18】[宣怀学院科创硕士项目](https://mp.weixin.qq.com/s/QpulB9uJsXiwX6Eig7DaSg)~~
 
@@ -182,6 +186,8 @@
 
 ## 华南理工大学
 
+> [华南理工大学2025年接收推免预报名公告](https://yz.scut.edu.cn/2024/0819/c30674a559796/page.htm)
+
 【报名截止：N/A】[工程硕博士培养改革专项](https://yz.scut.edu.cn/2024/0816/c30108a559743/page.htm)
 
 ## 重庆大学
@@ -223,6 +229,8 @@
 【报名截止：9.5】[生物物理研究所](http://ibp.cas.cn/2020jyc/zs/sszs/202407/t20240730_7238140.html)
 
 【报名截止：9.1】[物理所](https://edu.iphy.ac.cn/moredetail.php?id=44367)
+
+【报名截止：8.30】[自动化研究所](http://ia.cas.cn/yjsjy/zs/sszs/202408/t20240820_7301558.html)
 
 【报名截止：8.23】[分子细胞科学卓越创新中心](http://www.sibcb.ac.cn/edu/news1.jsp?ID=1205)
 
@@ -273,6 +281,10 @@
 ## 南京邮电大学
 
 ~~【报名截止：7.31】[计算机学院、软件学院、网络空间安全学院](https://cs.njupt.edu.cn/2024/0705/c16083a267466/page.htm)~~
+
+## 广州国家实验室
+
+> [广州国家实验室预推免信息](https://mp.weixin.qq.com/s/qGsHrkoL3_brCQV-oJtaJA)
 
 ## 东华大学
 
