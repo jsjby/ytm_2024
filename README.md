@@ -12,6 +12,8 @@
 
 【报名截止：9.2】[软件学院](https://yzbm.tsinghua.edu.cn/publish/s03/s0302/detail/8d9fc0c1-e14e-45d8-91eb-1909eeb6b996?yxsdm=410)
 
+【报名截止：9.2】[计算机科学与技术系](https://yzbm.tsinghua.edu.cn/publish/s03/s0302/detail/fecbbbab-fdde-4e21-9652-322c7a68b87d?yxsdm=024)
+
 【报名截止：9.2】[电机工程与应用电子技术系](https://yzbm.tsinghua.edu.cn/publish/s03/s0302/detail/89272fbc-f2bd-41b7-b4e8-c99276b1d9c2?yxsdm=022)
 
 【报名截止：9.2】[电子工程系](https://yzbm.tsinghua.edu.cn/publish/s03/s0302/detail/ca177881-23ed-4d30-8600-b1882b74d623?yxsdm=023)
