@@ -14,6 +14,8 @@
 
 【报名截止：9.2】[计算机科学与技术系](https://yzbm.tsinghua.edu.cn/publish/s03/s0302/detail/fecbbbab-fdde-4e21-9652-322c7a68b87d?yxsdm=024)
 
+【报名截止：9.2】[求真书院](https://qzc.tsinghua.edu.cn/info/1162/6311.htm)
+
 【报名截止：9.2】[电机工程与应用电子技术系](https://yzbm.tsinghua.edu.cn/publish/s03/s0302/detail/89272fbc-f2bd-41b7-b4e8-c99276b1d9c2?yxsdm=022)
 
 【报名截止：9.2】[电子工程系](https://yzbm.tsinghua.edu.cn/publish/s03/s0302/detail/ca177881-23ed-4d30-8600-b1882b74d623?yxsdm=023)
@@ -266,9 +268,13 @@
 
 > [北京科技大学预推免信息](https://gs.bjtu.edu.cn/cms/zszt/item/3011.html)
 
+【报名截止：8.31】[国家材料服役安全科学中心](https://ncms.ustb.edu.cn/rcpy/tzgg/e479005126814dcb8ace6b822f592d79.htm)
+
 【报名截止：8.30】[计算机与通信工程学院](https://scce.ustb.edu.cn/xinwentongzhi/tongzhigonggao/2024-08-10/2093.html)
 
 【报名截止：8.30】[智能科学与技术学院](https://ai.ustb.edu.cn/xwgg/tzgg/908112fddf1441dbb189557b9b768cfe.htm)
+
+【报名截止：8.28】[顺德创新学院](https://sd.ustb.edu.cn/tzgg/d86e101480c9471281da8ce5ba9aca29.htm)
 
 ## 南京理工大学
 
@@ -348,6 +354,10 @@
 
 【报名截止：8.31】[统计交叉创新研究院](https://yzcx.swufe.edu.cn/chaxun/yzb/tms/2025/02_jt/01bm/yxsxz/098.pdf)
 
+## 湘潭大学
+
+【报名截止：9.15】[湘潭大学](https://yjsc.xtu.edu.cn/info/1028/4325.htm)
+
 ## 内蒙古大学
 
 ~~【报名截止：8.5】[生物医学研究院](https://swyxyjy.imu.edu.cn/info/1146/1446.htm)~~
@@ -367,6 +377,10 @@
 ##  中国航空工业集团公司
 
 > [西安飞行自动控制研究所](https://mp.weixin.qq.com/s/fgszexKIliZSSVGMWN4gfA)
+
+##  中国航天科工三院三部
+
+【报名截止：9月】[中国航天科工三院三部](https://mp.weixin.qq.com/s/XYyZbbMNyiB-joHdoWyRCQ)
 
 ##  中国人民解放军空军工程大学
 
