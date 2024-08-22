@@ -16,6 +16,10 @@
 
 【报名截止：9.2】[求真书院](https://qzc.tsinghua.edu.cn/info/1162/6311.htm)
 
+【报名截止：9.2】[鹏城实验室联合培养博士专项计划](https://yzbm.tsinghua.edu.cn/publish/s03/s0302/detail/cde4cb89-e54f-452a-a6f8-eaf14d867619?yxsdm=599)
+
+【报名截止：9.2】[南方科技大学联合培养博士专项计划](https://yzbm.tsinghua.edu.cn/publish/s03/s0302/detail/ed76b438-d3a6-4103-b387-4ac778c2c426?yxsdm=599)
+
 【报名截止：9.2】[电机工程与应用电子技术系](https://yzbm.tsinghua.edu.cn/publish/s03/s0302/detail/89272fbc-f2bd-41b7-b4e8-c99276b1d9c2?yxsdm=022)
 
 【报名截止：9.2】[电子工程系](https://yzbm.tsinghua.edu.cn/publish/s03/s0302/detail/ca177881-23ed-4d30-8600-b1882b74d623?yxsdm=023)
@@ -196,6 +200,10 @@
 
 > [重庆大学2025年接收推免预报名公告](https://yz.cqu.edu.cn/news/2024-06/2161.html)
 
+## 山东大学
+
+> [山东大学预推免信息](https://www.yz.sdu.edu.cn/info/1009/5910.htm)
+
 ## 东北大学
 
 > [东北大学预推免信息](http://yz.neu.edu.cn/2024/0729/c5932a266900/page.htm)
@@ -338,9 +346,17 @@
 
 ~~【报名截止：8.11】[计算机科学与技术学院](https://cst.hqu.edu.cn/info/1092/10531.htm)~~
 
+## 华东理工大学
+
+> [华东理工大学预推免信息](https://gschool.ecust.edu.cn/2024/0821/c12708a170153/page.htm)
+
 ## 西安建筑科技大学
 
 ~~【报名截止：8.1】[信息与控制工程学院](https://yzb.xauat.edu.cn/info/1020/6405.htm)~~
+
+## 西湖大学
+
+> [西湖大学预推免信息](https://westlake.edu.cn/news_events/westlakenews/zsdt/202408/t20240822_42135.shtml)
 
 ## 西北大学
 
