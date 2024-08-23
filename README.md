@@ -8,13 +8,17 @@
 
 > 申请服务系统定于2024年8月23日12:00开放，2024年9月2日12:00关闭
 
-【报名截止：9.2】[深圳国际研究生院](https://yzbm.tsinghua.edu.cn/publish/s03/s0302/detail/cb844d46-ba07-4e06-a814-e492a5a8c7a0?yxsdm=599)
+【报名截止：9.2】[深圳国际研究生院](https://www.sigs.tsinghua.edu.cn/2024/0823/c118a95817/page.htm)
+
+【报名截止：9.2】[深圳国际研究生院博士招生](https://yzbm.tsinghua.edu.cn/publish/s03/s0302/detail/cb844d46-ba07-4e06-a814-e492a5a8c7a0?yxsdm=599)
 
 【报名截止：9.2】[软件学院](https://yzbm.tsinghua.edu.cn/publish/s03/s0302/detail/8d9fc0c1-e14e-45d8-91eb-1909eeb6b996?yxsdm=410)
 
 【报名截止：9.2】[计算机科学与技术系](https://yzbm.tsinghua.edu.cn/publish/s03/s0302/detail/fecbbbab-fdde-4e21-9652-322c7a68b87d?yxsdm=024)
 
 【报名截止：9.2】[求真书院](https://qzc.tsinghua.edu.cn/info/1162/6311.htm)
+
+【报名截止：9.2】[SIGS-IMDT](https://mp.weixin.qq.com/s/n5tiL8NA71YN6UoOJkmV4w)
 
 【报名截止：9.2】[鹏城实验室联合培养博士专项计划](https://yzbm.tsinghua.edu.cn/publish/s03/s0302/detail/cde4cb89-e54f-452a-a6f8-eaf14d867619?yxsdm=599)
 
@@ -234,6 +238,8 @@
 
 【报名截止：9.24】[上海应用物理研究所](http://www.sinap.cas.cn/yjsjynew/zsjz/sszs_177904/202408/t20240814_7269865.html)
 
+【报名截止：9.23】[国家授时中心](http://www.ntsc.cas.cn/xwzx_/tzgg/202408/t20240823_7309806.html)
+
 【报名截止：9.10】[计算机网络信息中心](https://cnic.cas.cn/yjsjy/tzgg/202408/t20240819_7287051.html)
 
 【报名截止：9.5】[生物物理研究所](http://ibp.cas.cn/2020jyc/zs/sszs/202407/t20240730_7238140.html)
@@ -242,7 +248,9 @@
 
 【报名截止：8.30】[自动化研究所](http://ia.cas.cn/yjsjy/zs/sszs/202408/t20240820_7301558.html)
 
-【报名截止：8.23】[分子细胞科学卓越创新中心](http://www.sibcb.ac.cn/edu/news1.jsp?ID=1205)
+【报名截止：8.29】[心理研究所](http://www.psych.cas.cn/edu/zsxx/sszs/202408/t20240823_7310060.html)
+
+~~【报名截止：8.23】[分子细胞科学卓越创新中心](http://www.sibcb.ac.cn/edu/news1.jsp?ID=1205)~~
 
 ~~【报名截止：8.12】[沈阳自动化研究所](http://www.sia.cas.cn/zpjy/yjsjy/zs/zsgg/202407/t20240719_7231672.html)~~
 
@@ -251,6 +259,8 @@
 ## 中国科学院大学
 
 【报名截止：N/A】[核科学与技术学院](https://nuclear.ucas.ac.cn/index.php/zh-cn/zsjy/zs/bkxz/4200-tm1tz)
+
+【报名截止：9.10】[电子电气与通信工程学院](https://eece.ucas.ac.cn/index.php/zh-cn/2014-06-13-06-51-06/2535-2025)
 
 ## 西安电子科技大学
 
@@ -279,6 +289,8 @@
 【报名截止：8.31】[国家材料服役安全科学中心](https://ncms.ustb.edu.cn/rcpy/tzgg/e479005126814dcb8ace6b822f592d79.htm)
 
 【报名截止：8.30】[计算机与通信工程学院](https://scce.ustb.edu.cn/xinwentongzhi/tongzhigonggao/2024-08-10/2093.html)
+
+【报名截止：8.30】[前沿交叉科学技术研究院 ](https://qy.ustb.edu.cn/tzgg/cdf07f88e1864b6d95aab2babb19d573.htm)
 
 【报名截止：8.30】[智能科学与技术学院](https://ai.ustb.edu.cn/xwgg/tzgg/908112fddf1441dbb189557b9b768cfe.htm)
 
