@@ -302,6 +302,8 @@
 
 ## 南京理工大学
 
+【报名截止：N/A】[计算机学院](https://mp.weixin.qq.com/s/WBivCx8Wi58SgpS2LFvuTA)
+
 【报名截止：9.10】[网络空间安全学院](https://scs.njust.edu.cn/28/b4/c15612a338100/page.htm)
 
 ## 南京航空航天大学
