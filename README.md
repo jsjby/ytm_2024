@@ -22,6 +22,8 @@
 
 【报名截止：9.2】[求真书院](https://qzc.tsinghua.edu.cn/info/1162/6311.htm)
 
+【报名截止：9.2】[SIGS海洋工程研究院](https://mp.weixin.qq.com/s/gg1n3wFXkUTu6yw-C9nqSw)
+
 【报名截止：9.2】[SIGS-IMDT](https://mp.weixin.qq.com/s/n5tiL8NA71YN6UoOJkmV4w)
 
 【报名截止：9.2】[鹏城实验室联合培养博士专项计划](https://yzbm.tsinghua.edu.cn/publish/s03/s0302/detail/cde4cb89-e54f-452a-a6f8-eaf14d867619?yxsdm=599)
@@ -344,7 +346,7 @@
 
  ## 杭州师范大学
 
-> [杭州师范大学预推免信息](https://yjs.hznu.edu.cn/c/2024-08-19/2989525.shtml)
+> [杭州师范大学预推免信息](https://yjs.hznu.edu.cn/c/2024-08-25/2990202.shtml)
 
  ## 暨南大学
 
@@ -408,6 +410,10 @@
 
 > [南京农业大学预推免](https://zsgz.njau.edu.cn/info/1007/1571.htm)
 
+##  中央音乐学院
+
+【报名截止：9.19】[音乐人工智能与音乐信息科技方向](https://www.ccom.edu.cn/info/10721/235011.htm)
+
 ##  中国人民解放军军事科学院
 
 ~~【报名截止：8.7】[中国人民解放军军事科学院](https://mp.weixin.qq.com/s/t7kIUoykhrrxnJRMi2g9Tw)~~
@@ -431,6 +437,10 @@
 ##  中国人民解放军海军工程大学
 
 ~~【报名截止：8.7】[海军工程大学](https://mp.weixin.qq.com/s/5ta-zmIJifMMTLR4eMNtqg)~~
+
+##  北京协和医学院
+
+【报名截止：9.5】[北京协和医学院](https://graduate.pumc.edu.cn/zsw/info/1005/2028.htm)
 
 ##  北京工商大学
 
