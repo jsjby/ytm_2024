@@ -34,6 +34,8 @@
 
 【报名截止：9.2】[电子工程系](https://yzbm.tsinghua.edu.cn/publish/s03/s0302/detail/ca177881-23ed-4d30-8600-b1882b74d623?yxsdm=023)
 
+【报名截止：9.2】[天基网络与通信全国重点实验室](https://www.ee.tsinghua.edu.cn/info/1078/4549.htm)
+
 【报名截止：9.2】[高等研究院](https://yzbm.tsinghua.edu.cn/publish/s03/s0302/detail/4f1410c8-5e05-4d93-931b-a85aca0f026d?yxsdm=048)
 
 【报名截止：9.2】[法学院](https://yzbm.tsinghua.edu.cn/publish/s03/s0302/detail/62c89c2a-27d1-4129-bb9d-aadaa3ee2ecb?yxsdm=066)
@@ -122,6 +124,8 @@
 
 【报名截止：N/A】[（威海） 计算机科学与技术学院](https://cst.hitwh.edu.cn/2024/0808/c371a186070/page.htm)
 
+【报名截止：N/A】[（威海） 材料科学与工程学院](http://mse.hitwh.edu.cn/2024/0825/c5008a186477/page.htm)
+
 【报名截止：N/A】[威海） 汽车工程学院](https://auto.hitwh.edu.cn/2024/0808/c189a186089/page.htm)
 
 【报名截止：N/A】[材料科学与工程学院](https://mse.hit.edu.cn/2024/0809/c16847a350850/page.htm)
@@ -190,6 +194,10 @@
 
 ~~【报名截止：7.31】[仪器科学与工程学院](https://ins.seu.edu.cn/2024/0624/c26759a495168/page.psp)~~
 
+## 北京理工大学
+
+【报名截止：N/A】[集成电路与电子学院信号与图像处理研究所 ](https://isip.bit.edu.cn/xwgg/tzgg/eeb7b3256de64b278a60d3808ee69879.htm)
+
 ## 北京航空航天大学
 
 ~~【报名截止：8.14】[无人系统研究院 ](https://wrj.buaa.edu.cn/info/1008/2226.htm)~~
@@ -233,6 +241,12 @@
 ## 大连理工大学
 
 > [大连理工大学预推免信息](https://gs.dlut.edu.cn/info/1173/14906.htm)
+
+## 中国海洋大学
+
+> [中国海洋大学预推免信息](https://yz.ouc.edu.cn/2024/0827/c5926a482049/page.htm)
+
+【报名截止：9.19】[创新人才培养专项计划](https://yz.ouc.edu.cn/2024/0827/c5926a482047/page.htm)
 
 ## 中国科学院
 
