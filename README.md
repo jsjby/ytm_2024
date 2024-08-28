@@ -142,6 +142,8 @@
 
 【报名截止：9.9】[（深圳） 计算机科学与技术学院](http://cs.hitsz.edu.cn/info/1029/7452.htm)
 
+【报名截止：9.6】[国优计划](https://yzb.hit.edu.cn/2024/0828/c8822a351712/page.htm)
+
 ~~【报名截止：8.25】[计算学部](https://computing.hit.edu.cn/2024/0729/c11271a349512/page.htm)~~
 
 ~~【报名截止：8.8】[苏州研究院](https://mp.weixin.qq.com/s/KrlnlCTs1r6MiilSC-5sTA)~~
@@ -173,6 +175,8 @@
 ## 东南大学
 
 > [东南大学招生信息](https://yzb.seu.edu.cn/2024/0613/c6676a493845/pagem.htm)
+
+【报名截止：9.15】[国优计划](https://xxgk.seu.edu.cn/2024/0827/c10807a501080/page.htm)
 
 【报名截止：N/A】[PALM实验室](https://palm.seu.edu.cn/application.html)
 
@@ -230,9 +234,15 @@
 
 > [山东大学预推免信息](https://www.yz.sdu.edu.cn/info/1009/5910.htm)
 
+【报名截止：9.18 [软件学院](https://www.sc.sdu.edu.cn/info/1019/4823.htm)
+
 ## 东北大学
 
 > [东北大学预推免信息](http://yz.neu.edu.cn/2024/0729/c5932a266900/page.htm)
+
+## 湖南大学
+
+> [湖南大学预推免信息](http://gra.hnu.edu.cn/info/1075/9695.htm)
 
 ## 兰州大学
 
@@ -314,6 +324,8 @@
 
 > [北京科技大学预推免信息](https://gs.bjtu.edu.cn/cms/zszt/item/3011.html)
 
+【报名截止：9.1】[校企联合培养工程硕博士](https://yzxc.ustb.edu.cn/xlytm/hdap/9c535140e0474e8abfa82b77a77d2f92.htm)
+
 【报名截止：8.31】[国家材料服役安全科学中心](https://ncms.ustb.edu.cn/rcpy/tzgg/e479005126814dcb8ace6b822f592d79.htm)
 
 【报名截止：8.30】[计算机与通信工程学院](https://scce.ustb.edu.cn/xinwentongzhi/tongzhigonggao/2024-08-10/2093.html)
@@ -322,7 +334,7 @@
 
 【报名截止：8.30】[智能科学与技术学院](https://ai.ustb.edu.cn/xwgg/tzgg/908112fddf1441dbb189557b9b768cfe.htm)
 
-【报名截止：8.28】[顺德创新学院](https://sd.ustb.edu.cn/tzgg/d86e101480c9471281da8ce5ba9aca29.htm)
+~~【报名截止：8.28】[顺德创新学院](https://sd.ustb.edu.cn/tzgg/d86e101480c9471281da8ce5ba9aca29.htm)~~
 
 ## 南京理工大学
 
@@ -369,6 +381,8 @@
 ## 上海科技大学
 
 【报名截止：9.20】[信息学院](https://sist.shanghaitech.edu.cn/2024/0731/c2863a1100077/page.htm)
+
+【报名截止：9.20】[生医工学院](https://mp.weixin.qq.com/s/yM6tDoVUyTJaMHZzyAyOKg)
 
 【报名截止：9.20】[生命学院](https://slst.shanghaitech.edu.cn/2024/0722/c319a1099384/page.htm)
 
@@ -423,6 +437,10 @@
 ## 南京农业大学
 
 > [南京农业大学预推免](https://zsgz.njau.edu.cn/info/1007/1571.htm)
+
+##  湘潭大学
+
+【报名截止：9.15】[数学与计算科学学院](https://math.xtu.edu.cn/info/1059/4441.htm)
 
 ##  中央音乐学院
 
