@@ -256,6 +256,8 @@
 
 > [湖南大学预推免信息](http://gra.hnu.edu.cn/info/1075/9695.htm)
 
+【报名截止：9.15】[国优计划](https://gra.hnu.edu.cn/info/1075/9696.htm)
+
 ## 兰州大学
 
 > [兰州大学预推免信息](https://mp.weixin.qq.com/s/mJDzb8C-UimoBANGzW81gQ)
