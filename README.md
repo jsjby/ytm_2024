@@ -66,7 +66,7 @@
 
 【报名截止：9.2】[集成电路学院集成电路创新博士班](https://yzbm.tsinghua.edu.cn/publish/s03/s0302/detail/1aceebfd-9c92-4d8a-aee9-9ec90a754f1a?yxsdm=026)
 
-【报名截止：9.1】[高等研究院](https://www.ias.tsinghua.edu.cn/zsxx.htm)
+~~【报名截止：9.1】[高等研究院](https://www.ias.tsinghua.edu.cn/zsxx.htm)~~
 
 > 清华大学高等研究院只招收直博生，包含物理学(含天体物理）、网络空间安全、计算机科学与技术三个专业。
 
@@ -109,6 +109,8 @@
 【报名截止：9.10】[伊利诺伊大学厄巴纳香槟校区联合学院](https://zjui.intl.zju.edu.cn/node/2660)
 
 【报名截止：9.9】[海洋学院](http://oc.zju.edu.cn/2024/0810/c52420a2952624/page.htm)
+
+【报名截止：9.8】[国优计划](http://www.grs.zju.edu.cn/yjszs/2024/0901/c28479a2956024/page.htm)
 
 【报名截止：9.6】[计算机学院](http://www.cs.zju.edu.cn/csen/2024/0810/c27006a2952625/page.htm)
 
@@ -163,6 +165,10 @@
 ~~【报名截止：8.8】[苏州研究院](https://mp.weixin.qq.com/s/KrlnlCTs1r6MiilSC-5sTA)~~
 
 ~~【报名截止：8.6】[郑州研究院](https://zri.hit.edu.cn/2024/0726/c17214a349299/page.htm)~~
+
+## 中国科学技术大学
+
+【报名截止：9.16】[中国科学技术大学与宁波东方理工大学](https://www.eitech.edu.cn/?admission=%e4%b8%ad%e5%9b%bd%e7%a7%91%e5%ad%a6%e6%8a%80%e6%9c%af%e5%a4%a7%e5%ad%a6%e4%b8%8e%e5%ae%81%e6%b3%a2%e4%b8%9c%e6%96%b9%e7%90%86%e5%b7%a5%e5%a4%a7%e5%ad%a6%ef%bc%88%e6%9a%82%e5%90%8d%ef%bc%892025-2)
 
 ## 国防科技大学
 
@@ -254,7 +260,13 @@
 
 > [山东大学预推免信息](https://www.yz.sdu.edu.cn/info/1009/5910.htm)
 
+【报名截止：N/A [空间科学与物理学院](https://apd.wh.sdu.edu.cn/info/1049/16750.htm)
+
 【报名截止：9.18 [软件学院](https://www.sc.sdu.edu.cn/info/1019/4823.htm)
+
+【报名截止：9.14 [信息学院](https://www.ise.sdu.edu.cn/info/1025/13923.htm)
+
+【报名截止：9.4 [国优计划](https://www.cie.sdu.edu.cn/info/1033/4876.htm)
 
 ## 东北大学
 
@@ -263,6 +275,8 @@
 ## 湖南大学
 
 > [湖南大学预推免信息](http://gra.hnu.edu.cn/info/1075/9695.htm)
+
+【报名截止：9.19】[卓越工程师学院](http://gra.hnu.edu.cn/info/1075/9699.htm)
 
 【报名截止：9.15】[国优计划](https://gra.hnu.edu.cn/info/1075/9696.htm)
 
@@ -285,6 +299,8 @@
 【报名截止：N/A】[软件所](http://www.is.cas.cn/yjsjy2016/zsxx2016/202408/t20240801_7238784.html)
 
 【报名截止：N/A】[空天信息创新研究院](https://mp.weixin.qq.com/s/rIplyOL-qVYyMMA1RptZ7Q)
+
+【报名截止：N/A】[云南天文台](https://www.ynao.cas.cn/yjsjy/jydt/zs/202408/t20240830_7331384.html)
 
 【报名截止：10.18】[新疆理化技术研究所](http://www.xjipc.cas.cn/yjs/zs/sszs/202406/t20240604_7184062.html)
 
@@ -310,7 +326,7 @@
 
 【报名截止：9.5】[生物物理研究所](http://ibp.cas.cn/2020jyc/zs/sszs/202407/t20240730_7238140.html)
 
-【报名截止：9.1】[物理所](https://edu.iphy.ac.cn/moredetail.php?id=44367)
+~~【报名截止：9.1】[物理所](https://edu.iphy.ac.cn/moredetail.php?id=44367)~~
 
 ~~【报名截止：8.30】[自动化研究所](http://ia.cas.cn/yjsjy/zs/sszs/202408/t20240820_7301558.html)~~
 
@@ -352,11 +368,11 @@
 
 > [北京科技大学预推免信息](https://gs.bjtu.edu.cn/cms/zszt/item/3011.html)
 
-【报名截止：9.1】[校企联合培养工程硕博士](https://yzxc.ustb.edu.cn/xlytm/hdap/9c535140e0474e8abfa82b77a77d2f92.htm)
+~~【报名截止：9.1】[校企联合培养工程硕博士](https://yzxc.ustb.edu.cn/xlytm/hdap/9c535140e0474e8abfa82b77a77d2f92.htm)~~
 
-【报名截止：9.1】[国家卓越工程师学院](https://mp.weixin.qq.com/s/vQKDNL_T-Lk1G1iXDUjqsQ)
+~~【报名截止：9.1】[国家卓越工程师学院](https://mp.weixin.qq.com/s/vQKDNL_T-Lk1G1iXDUjqsQ)~~
 
-【报名截止：8.31】[国家材料服役安全科学中心](https://ncms.ustb.edu.cn/rcpy/tzgg/e479005126814dcb8ace6b822f592d79.htm)
+~~【报名截止：8.31】[国家材料服役安全科学中心](https://ncms.ustb.edu.cn/rcpy/tzgg/e479005126814dcb8ace6b822f592d79.htm)~~
 
 ~~【报名截止：8.30】[计算机与通信工程学院](https://scce.ustb.edu.cn/xinwentongzhi/tongzhigonggao/2024-08-10/2093.html)~~
 
@@ -400,7 +416,7 @@
 
 ## 苏州大学
 
-> [苏州大学预推免信息](https://yjs.suda.edu.cn/e6/4b/c8386a583243/page.htm)
+> [苏州大学预推免信息](https://mp.weixin.qq.com/s/XDqCWcdQeHPRqQN8q1uNog)
 
 【报名截止：9.11（前一周）】[计算机科学和技术学院（软件学院）](https://scst.suda.edu.cn/d4/c2/c29555a578754/page.htm)
 
@@ -471,6 +487,10 @@
 ## 南京农业大学
 
 > [南京农业大学预推免](https://zsgz.njau.edu.cn/info/1007/1571.htm)
+
+## 长沙理工大学
+
+> [长沙理工大学预推免](https://www.csust.edu.cn/yjsy/info/1121/11008.htm)
 
 ##  湘潭大学
 
