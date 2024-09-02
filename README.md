@@ -10,65 +10,69 @@
 
 > 申请服务系统定于2024年8月23日12:00开放，2024年9月2日12:00关闭
 
-【报名截止：9.2】[深圳国际研究生院](https://www.sigs.tsinghua.edu.cn/2024/0823/c118a95817/page.htm)
+~~【报名截止：9.2】[深圳国际研究生院](https://www.sigs.tsinghua.edu.cn/2024/0823/c118a95817/page.htm)~~
 
-【报名截止：9.2】[深圳国际研究生院博士招生](https://yzbm.tsinghua.edu.cn/publish/s03/s0302/detail/cb844d46-ba07-4e06-a814-e492a5a8c7a0?yxsdm=599)
+~~【报名截止：9.2】[深圳国际研究生院博士招生](https://yzbm.tsinghua.edu.cn/publish/s03/s0302/detail/cb844d46-ba07-4e06-a814-e492a5a8c7a0?yxsdm=599)~~
 
-【报名截止：9.2】[软件学院](https://yzbm.tsinghua.edu.cn/publish/s03/s0302/detail/8d9fc0c1-e14e-45d8-91eb-1909eeb6b996?yxsdm=410)
+~~【报名截止：9.2】[软件学院](https://yzbm.tsinghua.edu.cn/publish/s03/s0302/detail/8d9fc0c1-e14e-45d8-91eb-1909eeb6b996?yxsdm=410)~~
 
-【报名截止：9.2】[国家卓越工程师学院国重项目](https://mp.weixin.qq.com/s/stCPMyOkN7_AVrQDuetcfA)
+~~【报名截止：9.2】[国家卓越工程师学院国重项目](https://mp.weixin.qq.com/s/stCPMyOkN7_AVrQDuetcfA)~~
 
-【报名截止：9.2】[计算机科学与技术系](https://yzbm.tsinghua.edu.cn/publish/s03/s0302/detail/fecbbbab-fdde-4e21-9652-322c7a68b87d?yxsdm=024)
+~~【报名截止：9.2】[计算机科学与技术系](https://yzbm.tsinghua.edu.cn/publish/s03/s0302/detail/fecbbbab-fdde-4e21-9652-322c7a68b87d?yxsdm=024)~~
 
-【报名截止：9.2】[求真书院](https://qzc.tsinghua.edu.cn/info/1162/6311.htm)
+~~【报名截止：9.2】[求真书院](https://qzc.tsinghua.edu.cn/info/1162/6311.htm)~~
 
-【报名截止：9.2】[SIGS海洋工程研究院](https://mp.weixin.qq.com/s/gg1n3wFXkUTu6yw-C9nqSw)
+~~【报名截止：9.2】[SIGS海洋工程研究院](https://mp.weixin.qq.com/s/gg1n3wFXkUTu6yw-C9nqSw)~~
 
-【报名截止：9.2】[SIGS-IMDT](https://mp.weixin.qq.com/s/n5tiL8NA71YN6UoOJkmV4w)
+~~【报名截止：9.2】[SIGS-IMDT](https://mp.weixin.qq.com/s/n5tiL8NA71YN6UoOJkmV4w)~~
 
-【报名截止：9.2】[鹏城实验室联合培养博士专项计划](https://yzbm.tsinghua.edu.cn/publish/s03/s0302/detail/cde4cb89-e54f-452a-a6f8-eaf14d867619?yxsdm=599)
+~~【报名截止：9.2】[鹏城实验室联合培养博士专项计划](https://yzbm.tsinghua.edu.cn/publish/s03/s0302/detail/cde4cb89-e54f-452a-a6f8-eaf14d867619?yxsdm=599)~~
 
-【报名截止：9.2】[南方科技大学联合培养博士专项计划](https://yzbm.tsinghua.edu.cn/publish/s03/s0302/detail/ed76b438-d3a6-4103-b387-4ac778c2c426?yxsdm=599)
+~~【报名截止：9.2】[南方科技大学联合培养博士专项计划](https://yzbm.tsinghua.edu.cn/publish/s03/s0302/detail/ed76b438-d3a6-4103-b387-4ac778c2c426?yxsdm=599)~~
 
-【报名截止：9.2】[电机工程与应用电子技术系](https://yzbm.tsinghua.edu.cn/publish/s03/s0302/detail/89272fbc-f2bd-41b7-b4e8-c99276b1d9c2?yxsdm=022)
+~~【报名截止：9.2】[电机工程与应用电子技术系](https://yzbm.tsinghua.edu.cn/publish/s03/s0302/detail/89272fbc-f2bd-41b7-b4e8-c99276b1d9c2?yxsdm=022)~~
 
-【报名截止：9.2】[电子工程系](https://yzbm.tsinghua.edu.cn/publish/s03/s0302/detail/ca177881-23ed-4d30-8600-b1882b74d623?yxsdm=023)
+~~【报名截止：9.2】[电子工程系](https://yzbm.tsinghua.edu.cn/publish/s03/s0302/detail/ca177881-23ed-4d30-8600-b1882b74d623?yxsdm=023)~~
 
-【报名截止：9.2】[天基网络与通信全国重点实验室](https://www.ee.tsinghua.edu.cn/info/1078/4549.htm)
+~~【报名截止：9.2】[天基网络与通信全国重点实验室](https://www.ee.tsinghua.edu.cn/info/1078/4549.htm)~~
 
-【报名截止：9.2】[高等研究院](https://yzbm.tsinghua.edu.cn/publish/s03/s0302/detail/4f1410c8-5e05-4d93-931b-a85aca0f026d?yxsdm=048)
+~~【报名截止：9.2】[高等研究院](https://yzbm.tsinghua.edu.cn/publish/s03/s0302/detail/4f1410c8-5e05-4d93-931b-a85aca0f026d?yxsdm=048)~~
 
-【报名截止：9.2】[法学院](https://yzbm.tsinghua.edu.cn/publish/s03/s0302/detail/62c89c2a-27d1-4129-bb9d-aadaa3ee2ecb?yxsdm=066)
+~~【报名截止：9.2】[法学院](https://yzbm.tsinghua.edu.cn/publish/s03/s0302/detail/62c89c2a-27d1-4129-bb9d-aadaa3ee2ecb?yxsdm=066)~~
 
-【报名截止：9.2】[工业工程系](https://yzbm.tsinghua.edu.cn/publish/s03/s0302/detail/72ef6b22-c7af-417d-803e-3c2e1b362ebe?yxsdm=016)
+~~【报名截止：9.2】[工业工程系](https://yzbm.tsinghua.edu.cn/publish/s03/s0302/detail/72ef6b22-c7af-417d-803e-3c2e1b362ebe?yxsdm=016)~~
 
-【报名截止：9.2】[航天航空学院](https://yzbm.tsinghua.edu.cn/publish/s03/s0302/detail/e15a9be3-6a1c-4fef-957e-073f2e83e04c?yxsdm=031)
+~~【报名截止：9.2】[航天航空学院](https://yzbm.tsinghua.edu.cn/publish/s03/s0302/detail/e15a9be3-6a1c-4fef-957e-073f2e83e04c?yxsdm=031)~~
 
-【报名截止：9.2】[交叉信息研究院](https://yzbm.tsinghua.edu.cn/publish/s03/s0302/detail/5de6afb2-c313-42a2-8372-1a49b851fe1f?yxsdm=047)
+~~【报名截止：9.2】[交叉信息研究院](https://yzbm.tsinghua.edu.cn/publish/s03/s0302/detail/5de6afb2-c313-42a2-8372-1a49b851fe1f?yxsdm=047)~~
 
-【报名截止：9.2】[人工智能学院](https://yzbm.tsinghua.edu.cn/publish/s03/s0302/detail/65843094-4e3a-4290-ac3f-4383729fb21a?yxsdm=094)
+~~【报名截止：9.2】[人工智能学院](https://yzbm.tsinghua.edu.cn/publish/s03/s0302/detail/65843094-4e3a-4290-ac3f-4383729fb21a?yxsdm=094)~~
 
-【报名截止：9.2】[生物医学工程学院](https://yzbm.tsinghua.edu.cn/publish/s03/s0302/detail/b775e94f-d2d2-4a61-8ebb-60437efe9fe9?yxsdm=502)
+~~【报名截止：9.2】[生物医学工程学院](https://yzbm.tsinghua.edu.cn/publish/s03/s0302/detail/b775e94f-d2d2-4a61-8ebb-60437efe9fe9?yxsdm=502)~~
 
-【报名截止：9.2】[统计与数据科学系](https://yzbm.tsinghua.edu.cn/publish/s03/s0302/detail/b5486b29-e767-4b4e-acf8-1f7f44409cb0?yxsdm=088)
+~~【报名截止：9.2】[统计与数据科学系](https://yzbm.tsinghua.edu.cn/publish/s03/s0302/detail/b5486b29-e767-4b4e-acf8-1f7f44409cb0?yxsdm=088)~~
 
-【报名截止：9.2】[网络科学与网络空间研究院](https://yzbm.tsinghua.edu.cn/publish/s03/s0302/detail/cf455e69-13d6-41c7-9d1d-58a047a2c003?yxsdm=412)
+~~【报名截止：9.2】[网络科学与网络空间研究院](https://yzbm.tsinghua.edu.cn/publish/s03/s0302/detail/cf455e69-13d6-41c7-9d1d-58a047a2c003?yxsdm=412)~~
 
-【报名截止：9.2】[生命科学学院](https://yzbm.tsinghua.edu.cn/publish/s03/s0302/detail/97f137dd-7a12-4184-bd8f-e4dcf8864af1?yxsdm=045)
+~~【报名截止：9.2】[生命科学学院](https://yzbm.tsinghua.edu.cn/publish/s03/s0302/detail/97f137dd-7a12-4184-bd8f-e4dcf8864af1?yxsdm=045)~~
 
-【报名截止：9.2】[环境学院](https://yzbm.tsinghua.edu.cn/publish/s03/s0302/detail/ab25be03-bffa-4c0b-9603-7c3d7311b953?yxsdm=005)
+~~【报名截止：9.2】[环境学院](https://yzbm.tsinghua.edu.cn/publish/s03/s0302/detail/ab25be03-bffa-4c0b-9603-7c3d7311b953?yxsdm=005)~~
 
-【报名截止：9.2】[深圳国际研究生院Open FIESTA](https://mp.weixin.qq.com/s/tMzwzkH0emdQ1TO5eNbpMQ)
+~~【报名截止：9.2】[深圳国际研究生院Open FIESTA](https://mp.weixin.qq.com/s/tMzwzkH0emdQ1TO5eNbpMQ)~~
 
-【报名截止：9.2】[全球创新学院GIX](https://gix.tsinghua.edu.cn/zs1.htm)
+~~【报名截止：9.2】[全球创新学院GIX](https://gix.tsinghua.edu.cn/zs1.htm)~~
 
-【报名截止：9.2】[车辆与运载学院](https://yzbm.tsinghua.edu.cn/publish/s03/s0302/detail/8cc82ff0-1f7f-4642-a216-590ddccb5948?yxsdm=015)
+~~【报名截止：9.2】[车辆与运载学院](https://yzbm.tsinghua.edu.cn/publish/s03/s0302/detail/8cc82ff0-1f7f-4642-a216-590ddccb5948?yxsdm=015)~~
 
-【报名截止：9.2】[集成电路学院集成电路创新博士班](https://yzbm.tsinghua.edu.cn/publish/s03/s0302/detail/1aceebfd-9c92-4d8a-aee9-9ec90a754f1a?yxsdm=026)
+~~【报名截止：9.2】[集成电路学院集成电路创新博士班](https://yzbm.tsinghua.edu.cn/publish/s03/s0302/detail/1aceebfd-9c92-4d8a-aee9-9ec90a754f1a?yxsdm=026)~~
 
 ~~【报名截止：9.1】[高等研究院](https://www.ias.tsinghua.edu.cn/zsxx.htm)~~
 
 > 清华大学高等研究院只招收直博生，包含物理学(含天体物理）、网络空间安全、计算机科学与技术三个专业。
+
+## 北京大学
+
+【报名截止：N/A】[人工智能研究院](https://www.ai.pku.edu.cn/info/1063/1704.htm)
 
 ## 上海交通大学
 
@@ -78,7 +82,7 @@
 
 ## 复旦大学
 
-【报名截止：9.2】[工程硕博士](https://gsao.fudan.edu.cn/83/15/c15014a688917/page.htm)
+~~【报名截止：9.2】[工程硕博士](https://gsao.fudan.edu.cn/83/15/c15014a688917/page.htm)~~
 
 ## 南京大学
 
@@ -95,6 +99,8 @@
 > [浙江大学预推免消息](http://www.grs.zju.edu.cn/yjszs/2024/0805/c28498a2951455/page.htm)
 
 【报名截止：9.10】[工程师学院](https://pi.zju.edu.cn/2024/0808/c67026a2952040/page.htm)
+
+【报名截止：9.10】[生物医学工程与仪器科学学院工程硕博士](http://www.cbeis.zju.edu.cn/2024/0902/c63837a2956094/page.htm)
 
 【报名截止：9.10】[控制科学与工程学院](http://www.cse.zju.edu.cn/2024/0810/c39333a2952621/page.htm)
 
@@ -170,6 +176,10 @@
 
 【报名截止：9.16】[中国科学技术大学与宁波东方理工大学](https://www.eitech.edu.cn/?admission=%e4%b8%ad%e5%9b%bd%e7%a7%91%e5%ad%a6%e6%8a%80%e6%9c%af%e5%a4%a7%e5%ad%a6%e4%b8%8e%e5%ae%81%e6%b3%a2%e4%b8%9c%e6%96%b9%e7%90%86%e5%b7%a5%e5%a4%a7%e5%ad%a6%ef%bc%88%e6%9a%82%e5%90%8d%ef%bc%892025-2)
 
+【报名截止：9.15】[网络空间安全学院](https://cybersec.ustc.edu.cn/2024/0902/c23826a652265/page.htm)
+
+【报名截止：9.12】[工程硕博士培养](https://yz.ustc.edu.cn/article/2734/182?num=-1)
+
 ## 国防科技大学
 
 > [国防科技大学预推免信息](http://yjszs.nudt.edu.cn/pubweb/homePageList/detailed.view?keyId=13804)
@@ -177,6 +187,8 @@
 ## 天津大学
 
 > [天津大学预推免信息](http://yzb.tju.edu.cn/xwzx/zxxx/202407/t20240706_323840.htm)
+
+【报名截止：9.20】[推免生告知信](https://yzb.tju.edu.cn/xwzx/zxxx/202409/t20240902_323893.htm)
 
 【报名截止：9.8】[集成电路专项导师团](https://yzb.tju.edu.cn/xwzx/zxxx/202408/t20240830_323891.htm)
 
@@ -228,13 +240,21 @@
 
 ## 北京航空航天大学
 
+【报名截止：9.5】[国家卓越工程师学院](https://hc.buaa.edu.cn/info/1188/3834.htm)
+
 ~~【报名截止：8.14】[无人系统研究院 ](https://wrj.buaa.edu.cn/info/1008/2226.htm)~~
 
 ## 北京师范大学
 
 ~~【报名截止：8.11】[人工智能学院（第二轮）](https://ai.bnu.edu.cn/ggjxz/tzgg/272ed4fa3c314ff287da4425cf5a8f4e.htm)~~
 
+## 武汉大学
+
+【报名截止：N/A】 [遥感信息工程学院](https://rsgis.whu.edu.cn/info/1213/98250.htm)
+
 ## 同济大学
+
+【报名截止：9.26】 [同济大学2025年接收推免预报名公告](https://yz.tongji.edu.cn/info/1010/3638.htm)
 
 ~~【报名截止：8.16】 [国优计划](https://gs.tongji.edu.cn/info/1092/3678.htm)~~
 
@@ -262,6 +282,8 @@
 
 【报名截止：N/A [空间科学与物理学院](https://apd.wh.sdu.edu.cn/info/1049/16750.htm)
 
+【报名截止：9.18 [数据科学研究院](http://dsi.sdu.edu.cn/info/1157/3853.htm)
+
 【报名截止：9.18 [软件学院](https://www.sc.sdu.edu.cn/info/1019/4823.htm)
 
 【报名截止：9.14 [信息学院](https://www.ise.sdu.edu.cn/info/1025/13923.htm)
@@ -275,6 +297,8 @@
 ## 湖南大学
 
 > [湖南大学预推免信息](http://gra.hnu.edu.cn/info/1075/9695.htm)
+
+【报名截止：N/A】[电气与信息工程学院](http://eeit.hnu.edu.cn/info/1184/10585.htm)
 
 【报名截止：9.19】[卓越工程师学院](http://gra.hnu.edu.cn/info/1075/9699.htm)
 
@@ -302,6 +326,8 @@
 
 【报名截止：N/A】[云南天文台](https://www.ynao.cas.cn/yjsjy/jydt/zs/202408/t20240830_7331384.html)
 
+【报名截止：N/A】[沈阳自动化研究所](http://www.sia.cas.cn/zpjy/yjsjy/zs/zsgg/202409/t20240902_7331919.html)
+
 【报名截止：10.18】[新疆理化技术研究所](http://www.xjipc.cas.cn/yjs/zs/sszs/202406/t20240604_7184062.html)
 
 【报名截止：10.10】[新疆生态与地理研究所](https://egi.cas.cn/tzgg2020/tzgg_163367/202408/t20240830_7327590.html)
@@ -322,7 +348,11 @@
 
 【报名截止：9.16】[深圳先进技术研究院](https://www.siat.ac.cn/yjsjy2016/zsjs2016/202408/t20240829_7327021.html)
 
+【报名截止：9.13】[遗传发育所](https://genetics.cas.cn/edu/zsxx/xlytms/202409/t20240902_7331882.html)
+
 【报名截止：9.10】[计算机网络信息中心](https://cnic.cas.cn/yjsjy/tzgg/202408/t20240819_7287051.html)
+
+【报名截止：9.6】[计算技术研究所](http://www.ict.cas.cn/yjsjy/zsxx/sszs/202409/t20240902_7331937.html)
 
 【报名截止：9.5】[生物物理研究所](http://ibp.cas.cn/2020jyc/zs/sszs/202407/t20240730_7238140.html)
 
@@ -368,7 +398,7 @@
 
 > [北京科技大学预推免信息](https://gs.bjtu.edu.cn/cms/zszt/item/3011.html)
 
-~~【报名截止：9.1】[校企联合培养工程硕博士](https://yzxc.ustb.edu.cn/xlytm/hdap/9c535140e0474e8abfa82b77a77d2f92.htm)~~
+【报名截止：9.3 延迟】[校企联合培养工程硕博士](https://yzxc.ustb.edu.cn/xlytm/hdap/9c535140e0474e8abfa82b77a77d2f92.htm)
 
 ~~【报名截止：9.1】[国家卓越工程师学院](https://mp.weixin.qq.com/s/vQKDNL_T-Lk1G1iXDUjqsQ)~~
 
@@ -428,6 +458,8 @@
 
 > [暨南大学预推免信息](https://yz.jnu.edu.cn/2024/0810/c33059a819263/page.htm)
 
+> [暨南大学预推免信息深圳校区](https://sz.jnu.edu.cn/2024/0828/c10943a819711/page.htm)
+
 ## 上海科技大学
 
 【报名截止：9.20】[信息学院](https://sist.shanghaitech.edu.cn/2024/0731/c2863a1100077/page.htm)
@@ -476,9 +508,15 @@
 
 【报名截止：8.31】[统计交叉创新研究院](https://yzcx.swufe.edu.cn/chaxun/yzb/tms/2025/02_jt/01bm/yxsxz/098.pdf)
 
+## 南昌大学
+
+【报名截止：9.17】[南昌大学](http://yjsy.ncu.edu.cn/tzgg/8ac9367f17b74f429a74744e66d62534.htm)
+
 ## 湘潭大学
 
 【报名截止：9.15】[湘潭大学](https://yjsc.xtu.edu.cn/info/1028/4325.htm)
+
+【报名截止：9.15】[计算机学院](https://jwxy.xtu.edu.cn/info/1023/3426.htm)
 
 ## 内蒙古大学
 
@@ -491,6 +529,12 @@
 ## 长沙理工大学
 
 > [长沙理工大学预推免](https://www.csust.edu.cn/yjsy/info/1121/11008.htm)
+
+## 曲阜师范大学
+
+> [曲阜师范大学预推免](https://yjs.qfnu.edu.cn/info/1063/8254.htm)
+
+> [曲阜师范大学预推免-直博生](https://yjs.qfnu.edu.cn/info/1063/8255.htm)
 
 ##  湘潭大学
 
