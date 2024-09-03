@@ -82,6 +82,16 @@
 
 ## 复旦大学
 
+> [复旦大学预推免消息](https://gsao.fudan.edu.cn/8a/a3/c15157a690851/page.htm)
+
+【报名截止：9.15】[代谢与整合生物学研究院](https://mp.weixin.qq.com/s/Kb4tFZcT9XnreE6Bzd3Hfw)
+
+【报名截止：9.15】[人类表型组研究院](https://hupi.fudan.edu.cn/info/1064/3756.htm)
+
+【报名截止：9.15】[大数据学院](https://sds.fudan.edu.cn/8a/d4/c17701a690900/page.htm)
+
+【报名截止：9.13】[计算机科学技术学院](https://cs.fudan.edu.cn/8a/d6/c24277a690902/page.htm)
+
 ~~【报名截止：9.2】[工程硕博士](https://gsao.fudan.edu.cn/83/15/c15014a688917/page.htm)~~
 
 ## 南京大学
@@ -92,7 +102,7 @@
 
 【报名截止：9.8】[软件学院、智能软件与工程学院](https://software.nju.edu.cn/tzgg/20240829/i273701.html)
 
-【报名截止：9.3】[匡亚明学院](https://dii.nju.edu.cn/d2/25/c11317a709157/page.htm)
+~~【报名截止：9.3】[匡亚明学院](https://dii.nju.edu.cn/d2/25/c11317a709157/page.htm)~~
 
 ## 浙江大学
 
@@ -120,7 +130,7 @@
 
 【报名截止：9.6】[计算机学院](http://www.cs.zju.edu.cn/csen/2024/0810/c27006a2952625/page.htm)
 
-【报名截止：9.3】[生命科学研究院](http://lsi.zju.edu.cn/2024/0806/c25130a2951738/page.htm)
+~~【报名截止：9.3】[生命科学研究院](http://lsi.zju.edu.cn/2024/0806/c25130a2951738/page.htm)~~
 
 ## 哈尔滨工业大学
 
@@ -164,7 +174,7 @@
 
 【报名截止：9.6】[国优计划](https://yzb.hit.edu.cn/2024/0828/c8822a351712/page.htm)
 
-【报名截止：9.3】[（深圳）土木与环境工程学院](http://sce.hitsz.edu.cn/info/1009/5770.htm)
+~~【报名截止：9.3】[（深圳）土木与环境工程学院](http://sce.hitsz.edu.cn/info/1009/5770.htm)~~
 
 ~~【报名截止：8.25】[计算学部](https://computing.hit.edu.cn/2024/0729/c11271a349512/page.htm)~~
 
@@ -173,6 +183,8 @@
 ~~【报名截止：8.6】[郑州研究院](https://zri.hit.edu.cn/2024/0726/c17214a349299/page.htm)~~
 
 ## 中国科学技术大学
+
+【报名截止：9.18】[北京通用人工智能研究院](https://yz.ustc.edu.cn/article/2735/202?num=-1)
 
 【报名截止：9.16】[中国科学技术大学与宁波东方理工大学](https://www.eitech.edu.cn/?admission=%e4%b8%ad%e5%9b%bd%e7%a7%91%e5%ad%a6%e6%8a%80%e6%9c%af%e5%a4%a7%e5%ad%a6%e4%b8%8e%e5%ae%81%e6%b3%a2%e4%b8%9c%e6%96%b9%e7%90%86%e5%b7%a5%e5%a4%a7%e5%ad%a6%ef%bc%88%e6%9a%82%e5%90%8d%ef%bc%892025-2)
 
@@ -199,6 +211,8 @@
 【报名截止：9.15】[佐治亚理工深圳学院](https://mp.weixin.qq.com/s/GRJqGWLVIp_jkSW--dh7jg)
 
 【报名截止：9.14】[医学院](https://mctu.tju.edu.cn/info/1061/3511.htm)
+
+【报名截止：9.12】[新媒体与传播学院](https://mp.weixin.qq.com/s/i7x_ETpQ4jaQlxP8Djq12A)
 
 ~~【报名截止：8.30】[卓越工程师](http://yzb.tju.edu.cn/xwzx/zxxx/202408/t20240807_323857.htm)~~
 
@@ -257,6 +271,10 @@
 【报名截止：9.26】 [同济大学2025年接收推免预报名公告](https://yz.tongji.edu.cn/info/1010/3638.htm)
 
 ~~【报名截止：8.16】 [国优计划](https://gs.tongji.edu.cn/info/1092/3678.htm)~~
+
+## 中南大学
+
+【报名截止：9.10】[计算机学院](https://cse.csu.edu.cn/info/1040/9738.htm)
 
 ## 电子科技大学
 
@@ -350,6 +368,8 @@
 
 【报名截止：9.13】[遗传发育所](https://genetics.cas.cn/edu/zsxx/xlytms/202409/t20240902_7331882.html)
 
+【报名截止：9.11】[数学与系统科学研究院](http://admission.amss.ac.cn/zsxm/9ytm/202409/t20240902_800026.html)
+
 【报名截止：9.10】[计算机网络信息中心](https://cnic.cas.cn/yjsjy/tzgg/202408/t20240819_7287051.html)
 
 【报名截止：9.6】[计算技术研究所](http://www.ict.cas.cn/yjsjy/zsxx/sszs/202409/t20240902_7331937.html)
@@ -398,7 +418,7 @@
 
 > [北京科技大学预推免信息](https://gs.bjtu.edu.cn/cms/zszt/item/3011.html)
 
-【报名截止：9.3 延迟】[校企联合培养工程硕博士](https://yzxc.ustb.edu.cn/xlytm/hdap/9c535140e0474e8abfa82b77a77d2f92.htm)
+~~【报名截止：9.3 延迟】[校企联合培养工程硕博士](https://yzxc.ustb.edu.cn/xlytm/hdap/9c535140e0474e8abfa82b77a77d2f92.htm)~~
 
 ~~【报名截止：9.1】[国家卓越工程师学院](https://mp.weixin.qq.com/s/vQKDNL_T-Lk1G1iXDUjqsQ)~~
 
@@ -441,6 +461,8 @@
 ## 深圳大学
 
 > [深圳大学预推免信息](https://yz.szu.edu.cn/info/1041/12989.htm)
+
+【报名截止：N/A】[中国经济特区研究中心](http://www.ccsezr.org.cn/index.php?m=content&c=index&a=show&catid=42&id=291)
 
 【报名截止：N/A】[微众银行金融科技学院](https://mp.weixin.qq.com/s/yBtuB0LLxEWFJlMTAO7y9g)
 
@@ -508,9 +530,15 @@
 
 【报名截止：8.31】[统计交叉创新研究院](https://yzcx.swufe.edu.cn/chaxun/yzb/tms/2025/02_jt/01bm/yxsxz/098.pdf)
 
+## 西北政法大学
+
+> [西北政法大学预推免信息](https://mp.weixin.qq.com/s/emMysciBii8ouW7Vvs-HfA)
+
 ## 南昌大学
 
 【报名截止：9.17】[南昌大学](http://yjsy.ncu.edu.cn/tzgg/8ac9367f17b74f429a74744e66d62534.htm)
+
+【报名截止：9.15】[信息工程学院](http://ie.ncu.edu.cn/xydt/tzgg/d890e87a03474c879300eaec7f8278cb.htm)
 
 ## 湘潭大学
 
@@ -521,6 +549,10 @@
 ## 内蒙古大学
 
 ~~【报名截止：8.5】[生物医学研究院](https://swyxyjy.imu.edu.cn/info/1146/1446.htm)~~
+
+## 南京师范大学
+
+> [南京师范大学预推免](https://yz.njnu.edu.cn/homepage_display.jsp?wid=AC3D9226AD9F3C16E04077CAA468131D&wid2=210C30F638E99776E06002DF3E091ADA)
 
 ## 南京农业大学
 
