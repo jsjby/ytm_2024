@@ -92,6 +92,8 @@
 
 【报名截止：9.15】[大数据学院](https://sds.fudan.edu.cn/8a/d4/c17701a690900/page.htm)
 
+【报名截止：9.15】[数字医学研究中心](https://miccai.fudan.edu.cn/41/4b/c34229a672075/page.htm)
+
 【报名截止：9.15】[智能复杂体系基础理论与关键技术实验室](https://iics.fudan.edu.cn/8b/53/c43157a691027/page.htm)
 
 【报名截止：9.15】[上海数学与交叉学科研究院](https://www.simis.cn/2025-enrollment-application/)
@@ -124,6 +126,8 @@
 
 > [浙江大学预推免消息](http://www.grs.zju.edu.cn/yjszs/2024/0805/c28498a2951455/page.htm)
 
+【报名截止：9.12】[机械工程学院](http://me.zju.edu.cn/mecn/2024/0906/c6202a2959097/page.htm)
+
 【报名截止：9.10】[工程师学院](https://pi.zju.edu.cn/2024/0808/c67026a2952040/page.htm)
 
 【报名截止：9.10】[生物医学工程与仪器科学学院工程硕博士](http://www.cbeis.zju.edu.cn/2024/0902/c63837a2956094/page.htm)
@@ -138,7 +142,9 @@
 
 【报名截止：9.10】[信电学院](http://www.isee.zju.edu.cn/2024/0806/c21109a2951644/page.htm)
 
-【报名截止：9.10】[伊利诺伊大学厄巴纳香槟校区联合学院](https://zjui.intl.zju.edu.cn/node/2660)
+【报名截止：9.17】[伊利诺伊大学厄巴纳香槟校区联合学院-延迟](https://zjui.intl.zju.edu.cn/node/2670)
+
+【报名截止：9.10延迟】[伊利诺伊大学厄巴纳香槟校区联合学院](https://zjui.intl.zju.edu.cn/node/2660)
 
 【报名截止：9.9】[海洋学院](http://oc.zju.edu.cn/2024/0810/c52420a2952624/page.htm)
 
@@ -188,7 +194,7 @@
 
 【报名截止：9.9】[（深圳） 计算机科学与技术学院](http://cs.hitsz.edu.cn/info/1029/7452.htm)
 
-【报名截止：9.6】[国优计划](https://yzb.hit.edu.cn/2024/0828/c8822a351712/page.htm)
+~~【报名截止：9.6】[国优计划](https://yzb.hit.edu.cn/2024/0828/c8822a351712/page.htm)~~
 
 ~~【报名截止：9.3】[（深圳）土木与环境工程学院](http://sce.hitsz.edu.cn/info/1009/5770.htm)~~
 
@@ -202,6 +208,8 @@
 
 【报名截止：9.25前】[自动化系](https://auto.ustc.edu.cn/2024/0905/c26085a652618/page.htm)
 
+【报名截止：9.20前】[电子工程与信息科学系](https://eeis.ustc.edu.cn/2024/0906/c2702a652753/page.htm)
+
 【报名截止：9.18】[北京通用人工智能研究院](https://yz.ustc.edu.cn/article/2735/202?num=-1)
 
 【报名截止：9.16】[中国科学技术大学与宁波东方理工大学](https://www.eitech.edu.cn/?admission=%e4%b8%ad%e5%9b%bd%e7%a7%91%e5%ad%a6%e6%8a%80%e6%9c%af%e5%a4%a7%e5%ad%a6%e4%b8%8e%e5%ae%81%e6%b3%a2%e4%b8%9c%e6%96%b9%e7%90%86%e5%b7%a5%e5%a4%a7%e5%ad%a6%ef%bc%88%e6%9a%82%e5%90%8d%ef%bc%892025-2)
@@ -214,11 +222,15 @@
 
 > [国防科技大学预推免信息](http://yjszs.nudt.edu.cn/pubweb/homePageList/detailed.view?keyId=13804)
 
+【报名截止：9.22】[国防科技大学报名开始](http://yjszs.nudt.edu.cn/pubweb/homePageList/detailed.view?keyId=13902)
+
 ## 天津大学
 
 > [天津大学预推免信息](http://yzb.tju.edu.cn/xwzx/zxxx/202407/t20240706_323840.htm)
 
 【报名截止：9.27】[直博生报名](https://yzb.tju.edu.cn/xwzx/tkbs_xw/202409/t20240905_323897.htm)
+
+【报名截止：9.20】[微电子学院](https://sme.tju.edu.cn/info/1099/2974.htm)
 
 【报名截止：9.20】[推免生告知信](https://yzb.tju.edu.cn/xwzx/zxxx/202409/t20240902_323893.htm)
 
@@ -500,6 +512,8 @@
 
 > [北京科技大学预推免信息](https://gs.bjtu.edu.cn/cms/zszt/item/3011.html)
 
+【报名截止：9.13】[钢铁共性技术协同创新中心](https://cicst.ustb.edu.cn/tzgg1/255951b4af0b44d880706e521df412a8.htm)
+
 ~~【报名截止：9.3 延迟】[校企联合培养工程硕博士](https://yzxc.ustb.edu.cn/xlytm/hdap/9c535140e0474e8abfa82b77a77d2f92.htm)~~
 
 ~~【报名截止：9.1】[国家卓越工程师学院](https://mp.weixin.qq.com/s/vQKDNL_T-Lk1G1iXDUjqsQ)~~
@@ -542,6 +556,10 @@
 
 > [中国地质大学(武汉)预推免信息](http://yz.cug.edu.cn/page/detail/PVKZRL/697/61815)
 
+## 中国石油大学（华东）
+
+> [中国石油大学（华东）预推免信息](https://yz.upc.edu.cn/2024/0906/c10709a439166/page.htm)
+
 ## 中国政法大学
 
 > [中国政法大学预推免信息](https://yjsy.cupl.edu.cn/info/1020/11849.htm)
@@ -564,6 +582,10 @@
 
 【报名截止：N/A】[微众银行金融科技学院](https://mp.weixin.qq.com/s/yBtuB0LLxEWFJlMTAO7y9g)
 
+## 上海大学
+
+> [上海大学预推免信息](https://mp.weixin.qq.com/s/Uyd_LL2d9VMAauF0miQspg)
+
 ## 苏州大学
 
 > [苏州大学预推免信息](https://mp.weixin.qq.com/s/XDqCWcdQeHPRqQN8q1uNog)
@@ -579,6 +601,14 @@
 > [暨南大学预推免信息](https://yz.jnu.edu.cn/2024/0810/c33059a819263/page.htm)
 
 > [暨南大学预推免信息深圳校区](https://sz.jnu.edu.cn/2024/0828/c10943a819711/page.htm)
+
+## 郑州大学
+
+> [郑州大学预推免信息](http://gs.zzu.edu.cn/info/1023/13202.htm)
+
+## 广东工业大学
+
+> [广东工业大学预推免信息](https://yzw.gdut.edu.cn/info/1135/7656.htm)
 
 ## 上海科技大学
 
@@ -611,6 +641,10 @@
 ## 华东农业大学
 
 > [华东农业大学预推免信息](https://yjs.hzau.edu.cn/info/1189/10191.htm)
+
+## 华中农业大学
+
+【报名截止：9.17】[信息学院](https://coi.hzau.edu.cn/info/1015/12503.htm)
 
 ## 西安建筑科技大学
 
@@ -720,7 +754,11 @@
 
 ##  北京建筑大学
 
-> [北京建筑大学](https://yjsy.bucea.edu.cn/tzgg0/da713c0534b54641ae3353f52a6b196a.htm)
+> [北京建筑大学预推免信息](https://yjsy.bucea.edu.cn/tzgg0/da713c0534b54641ae3353f52a6b196a.htm)
+
+##  北京化工大学
+
+> [北京化工大学预推免信息](https://graduate.buct.edu.cn/2024/0906/c1392a198050/pagem.htm)
 
 ##  北京工商大学
 
@@ -729,4 +767,8 @@
 ##  新乡医学院
 
 ~~【报名截止：8.10】[医学工程学院](https://www.xxmu.edu.cn/yxgcxy/info/1177/3906.htm)~~
+
+## 陕西科技大学
+
+> [陕西科技大学预推免信息](https://yjszs.sust.edu.cn/info/1014/2959.htm)
 
