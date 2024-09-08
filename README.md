@@ -148,7 +148,7 @@
 
 【报名截止：9.9】[海洋学院](http://oc.zju.edu.cn/2024/0810/c52420a2952624/page.htm)
 
-【报名截止：9.8】[国优计划](http://www.grs.zju.edu.cn/yjszs/2024/0901/c28479a2956024/page.htm)
+~~【报名截止：9.8】[国优计划](http://www.grs.zju.edu.cn/yjszs/2024/0901/c28479a2956024/page.htm)~~
 
 ~~【报名截止：9.6】[计算机学院](http://www.cs.zju.edu.cn/csen/2024/0810/c27006a2952625/page.htm)~~
 
@@ -175,6 +175,8 @@
 【报名截止：N/A】[（威海） 材料科学与工程学院](http://mse.hitwh.edu.cn/2024/0825/c5008a186477/page.htm)
 
 【报名截止：N/A】[威海） 汽车工程学院](https://auto.hitwh.edu.cn/2024/0808/c189a186089/page.htm)
+
+【报名截止：N/A】[（威海）海洋工程学院](https://snaoe.hitwh.edu.cn/2024/0906/c86a187106/page.htm)
 
 【报名截止：N/A】[材料科学与工程学院](https://mse.hit.edu.cn/2024/0809/c16847a350850/page.htm)
 
@@ -494,6 +496,8 @@
 
 【报名截止：N/A】[核科学与技术学院](https://nuclear.ucas.ac.cn/index.php/zh-cn/zsjy/zs/bkxz/4200-tm1tz)
 
+【报名截止：N/A】[计算机学院](https://mp.weixin.qq.com/s/enBPLACMwVdiQBo8VWHjYQ)
+
 【报名截止：9.22】[密码学院（第二轮）](https://soc.ucas.ac.cn/index.php/zh/zsxxs/shzs/1243-2025-2)
 
 【报名截止：9.10】[电子电气与通信工程学院](https://eece.ucas.ac.cn/index.php/zh-cn/2014-06-13-06-51-06/2535-2025)
@@ -629,6 +633,12 @@
 ## 郑州大学
 
 > [郑州大学预推免信息](http://gs.zzu.edu.cn/info/1023/13202.htm)
+
+【报名截止：9.22】[网络空间安全学院](http://softschool.zzu.edu.cn/front/singleArticleDetail?id=4a453ec89077fd760191cf896c0202bc)
+
+## 山西农业大学
+
+【报名截止：N/A】[软件学院](https://soft.sxau.edu.cn/info/1047/4509.htm)
 
 ## 广东工业大学
 
