@@ -366,6 +366,10 @@
 
 【报名截止：9.10】[计算机学院](https://cse.csu.edu.cn/info/1040/9738.htm)
 
+## 中山大学
+
+【报名截止：9.18】[电子与信息工程学院](https://seit.sysu.edu.cn/article/2639)
+
 ## 电子科技大学
 
 ~~【报名截止：8.28】[电子科学与工程学院](https://www.ese.uestc.edu.cn/info/5085/21377.htm)~~
