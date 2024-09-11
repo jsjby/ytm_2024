@@ -136,8 +136,6 @@
 
 ~~【报名截止：9.8】[智能科学与技术学院](https://is.nju.edu.cn/cc/fe/c57160a707838/page.htm)~~
 
-~~【报名截止：9.9】[（深圳） 计算机科学与技术学院](http://cs.hitsz.edu.cn/info/1029/7452.htm)~~
-
 ~~【报名截止：9.8】[软件学院、智能软件与工程学院](https://software.nju.edu.cn/tzgg/20240829/i273701.html)~~
 
 ~~【报名截止：9.3】[匡亚明学院](https://dii.nju.edu.cn/d2/25/c11317a709157/page.htm)~~
