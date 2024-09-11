@@ -76,8 +76,6 @@
 
 【报名截止：N/A】[人工智能研究院](https://www.ai.pku.edu.cn/info/1063/1704.htm)
 
-【报名截止：N/A】[人工智能研究院](https://www.ai.pku.edu.cn/info/1063/1704.htm)
-
 【报名截止：9.14】[电子学院](https://ele.pku.edu.cn/info/1232/3244.htm)
 
 【报名截止：9.14】[智能学院](https://sai.pku.edu.cn/info/1034/3108.htm)
