@@ -88,7 +88,7 @@
 
 【报名截止：9.15】[软件与微电子学院-博士](https://www.ss.pku.edu.cn/admission/admnotice/4602.html)
 
-【报名截止：9.15】[软件与微电子学院-硕士]([硕士](https://www.ss.pku.edu.cn/admission/admnotice/4603.html)
+【报名截止：9.15】[软件与微电子学院-硕士](https://www.ss.pku.edu.cn/admission/admnotice/4603.html)
 
 【报名截止：9.14】[计算机学院](https://cs.pku.edu.cn/info/1022/3272.htm)
 
