@@ -72,9 +72,7 @@
 
 ## 北京大学
 
-> [北京大学预推免信息](https://admission.pku.edu.cn/docs/20240910105625196643.pdf?CSRFT=XP5P-8SJL-I6PK-F9A9-F62S-SU2S-KWTG-RV4P)
-
-> [北京大学深圳预推免信息](https://admission.pkusz.edu.cn/article/view/id-233.html) 
+> [北京大学预推免信息](https://admission.pku.edu.cn/docs/20240910105625196643.pdf?CSRFT=XP5P-8SJL-I6PK-F9A9-F62S-SU2S-KWTG-RV4P)| > [北京大学深圳预推免信息](https://admission.pkusz.edu.cn/article/view/id-233.html) 
 
 【报名截止：N/A】[人工智能研究院](https://www.ai.pku.edu.cn/info/1063/1704.htm)
 
