@@ -350,6 +350,8 @@
 
 【报名截止：N/A】[大科学装置研究院-报名意向统计](https://mp.weixin.qq.com/s/pO67DvrWvmL8HbuetASrWQ)
 
+【报名截止：9.21】[计算机学院](https://scse.buaa.edu.cn/info/1299/11380.htm)
+
 ~~【报名截止：9.5】[国家卓越工程师学院](https://hc.buaa.edu.cn/info/1188/3834.htm)~~
 
 ~~【报名截止：8.14】[无人系统研究院 ](https://wrj.buaa.edu.cn/info/1008/2226.htm)~~
@@ -522,6 +524,10 @@
 
 【报名截止：9.19】[卓越工程师学院](http://gra.hnu.edu.cn/info/1075/9699.htm)
 
+【报名截止：9.15】[机器人学院-国优计划](https://robotics.hnu.edu.cn/info/1074/2765.htm)
+
+【报名截止：9.15】[机器人学院](https://robotics.hnu.edu.cn/info/1074/2763.htm)
+
 【报名截止：9.15】[国优计划](https://gra.hnu.edu.cn/info/1075/9696.htm)
 
 ## 兰州大学
@@ -547,6 +553,8 @@
 ~~【报名截止：9.13】[信息与电气工程学院-工程硕博](http://ciee.cau.edu.cn/art/2024/9/11/art_50390_1036741.html)~~
 
 【报名截止：N/A】[工学院](https://coe.cau.edu.cn/art/2024/9/12/art_39155_1036976.html)
+
+【报名截止：9.17】[信息与电气工程学院](https://ciee.cau.edu.cn/art/2024/9/14/art_50390_1037381.html)
 
 ## 中国科学院
 
@@ -653,6 +661,12 @@
 ## 北京交通大学
 
 > [北京交通大学预推免信息](https://gs.bjtu.edu.cn/cms/zszt/item/3033.html)
+
+【报名截止：9.23】[计算机科学与技术学院](https://cs.bjtu.edu.cn/zsjy/yjszs3/yjszs_sszs/202313885.htm)
+
+【报名截止：9.18】[网络空间安全学院](https://bmxy.bjtu.edu.cn/cms/item/184.html)
+
+【报名截止：9.18】[软件学院](http://sse.bjtu.edu.cn/cms/item/1013.html)
 
 ## 北京科技大学
 
