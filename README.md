@@ -92,6 +92,8 @@
 
 ## 上海交通大学
 
+> [上海交通大学预推免信息](https://yzb.sjtu.edu.cn/info/1024/4735.htm)
+
 【报名截止：9.16】[上海交通大学与宁波东方理工大学](https://yzb.sjtu.edu.cn/info/1008/4725.htm)
 
 【报名截止：9.16】[电子信息与电气工程学院 ](https://www.seiee.sjtu.edu.cn/yjspy_zsgz_sszs/10659.html)
