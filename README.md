@@ -190,8 +190,6 @@
 
 【报名截止：N/A】[仪器科学与工程学院](http://ise.hit.edu.cn/2024/0731/c16271a349625/page.htm)
 
-【报名截止：N/A】[（深圳）电子与信息工程学院](http://eie.hitsz.edu.cn/info/1007/2631.htm)
-
 【报名截止：N/A】[新能源学院（威海）](https://newenergy.hitwh.edu.cn/2024/0805/c1522a185985/page.htm)
 
 【报名截止：N/A】[（威海） 计算机科学与技术学院](https://cst.hitwh.edu.cn/2024/0808/c371a186070/page.htm)
@@ -204,9 +202,8 @@
 
 【报名截止：N/A】[材料科学与工程学院](https://mse.hit.edu.cn/2024/0809/c16847a350850/page.htm)
 
-【报名截止：N/A】[交通科学与工程学院](https://jtxy.hit.edu.cn/2024/0813/c6085a350981/page.htm)
 
-【报名截止：N/A】[（深圳）空间科学与应用技术研究院](http://issat.hitsz.edu.cn/currency.jsp?urltype=news.NewsContentUrl&wbtreeid=1079&wbnewsid=2711)
+
 
 【报名截止：N/A】[（深圳）机电工程与自动化学院](http://smea.hitsz.edu.cn/info/1014/2531.htm)
 
@@ -221,6 +218,12 @@
 ~~【报名截止：9.9】[（深圳） 计算机科学与技术学院](http://cs.hitsz.edu.cn/info/1029/7452.htm)~~
 
 ~~【报名截止：9.6】[国优计划](https://yzb.hit.edu.cn/2024/0828/c8822a351712/page.htm)~~
+
+~~【报名截止：9.6】[（深圳）电子与信息工程学院](http://eie.hitsz.edu.cn/info/1007/2631.htm)~~
+
+~~【报名截止：9.4】[（深圳）空间科学与应用技术研究院](http://issat.hitsz.edu.cn/currency.jsp?urltype=news.NewsContentUrl&wbtreeid=1079&wbnewsid=2711)~~
+
+~~【报名截止：9.1】[交通科学与工程学院](https://jtxy.hit.edu.cn/2024/0813/c6085a350981/page.htm)~~
 
 ~~【报名截止：9.3】[（深圳）土木与环境工程学院](http://sce.hitsz.edu.cn/info/1009/5770.htm)~~
 
