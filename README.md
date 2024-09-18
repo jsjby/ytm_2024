@@ -278,7 +278,7 @@
 
 【报名截止：9.22】[国防科技大学报名开始](http://yjszs.nudt.edu.cn/pubweb/homePageList/detailed.view?keyId=13902)
 
-【报名截止：9.22】[计算机学院](http://yjszs.nudt.edu.cn/pubweb/homePageList/detailed.view?keyId=13905)
+【报名截止：9.19】[计算机学院](http://yjszs.nudt.edu.cn/pubweb/homePageList/detailed.view?keyId=13905)
 
 【报名截止：9.22】[气象海洋学院](http://yjszs.nudt.edu.cn/pubweb/homePageList/detailed.view?keyId=13917)
 
