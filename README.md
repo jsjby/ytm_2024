@@ -428,8 +428,6 @@
 
 【报名截止：9.26】 [工程硕博士](https://yz.tongji.edu.cn/info/1010/3653.htm)
 
-【报名截止：9.26】 [计算机科学与技术学院（软件学院）第二批](https://sse.tongji.edu.cn/info/1132/5276.htm)
-
 【报名截止：9.25】 [测绘与地理信息学院](https://celiang.tongji.edu.cn/info/1205/4022.htm)
 
 【报名截止：9.18】 [设计创意学院“人工智能与数据设计”方向](https://mp.weixin.qq.com/s/RlvqzxGgYFEWxXU483VU2Q)
