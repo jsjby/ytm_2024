@@ -368,7 +368,7 @@
 
 【报名截止：9.20】[无人系统研究院](https://wrj.buaa.edu.cn/info/1008/2278.htm)
 
-【报名截止：9.20】[电子信息工程学院](https://mp.weixin.qq.com/s/De8jGCiLzUFWNLgqo9P8BA)
+【报名截止：9.20】[电子信息工程学院](https://www.ee.buaa.edu.cn/info/1062/18732.htm)
 
 【报名截止：9.20】[大装置院](https://piqs.buaa.edu.cn/info/1038/2327.htm)
 
