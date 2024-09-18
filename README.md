@@ -354,6 +354,10 @@
 
 【报名截止：N/A】[集成电路与电子学院信号与图像处理研究所 ](https://isip.bit.edu.cn/xwgg/tzgg/eeb7b3256de64b278a60d3808ee69879.htm)
 
+【报名截止：N/A】[自动化学院](https://ac.bit.edu.cn/tzgg/e579c9b60e0443159ad202ab1db2c033.htm)
+
+【报名截止：9.21】[医学技术学院](https://smt.bit.edu.cn/rcpy/yjszs/60ef0fee1a324c808cd28727bb914963.htm)
+
 【报名截止：9.20】[网络空间安全学院](https://cst.bit.edu.cn/xxfw/tzgg/bb017f985ad047b19a28ba8c629f8b32.htm)
 
 ~~【报名截止：9.13】[空天网络信息技术研究所](https://cnet.bit.edu.cn/tzgg/fb01bcf320374a199a8111029f47e398.htm)~~
@@ -470,6 +474,14 @@
 
 > [电子科技大学招生信息](https://mp.weixin.qq.com/s/odQoU1i2rVFafYjeFtdgAQ)
 
+【报名截止：9.23】[信息与通信工程学院](https://www.sice.uestc.edu.cn/info/1142/14636.htm)
+
+【报名截止：9.23】[信息与软件工程学院](https://sise.uestc.edu.cn/info/1026/12772.htm)
+
+【报名截止：9.23】[计算机科学与工程学院（网络空间安全学院](https://www.scse.uestc.edu.cn/info/1015/16425.htm)
+
+【报名截止：9.22】[通信抗干扰全国重点实验室](https://www.ncl.uestc.edu.cn/info/1083/3147.htm)
+
 【报名截止：9.20】[基础与前沿研究院](https://www.iffs.uestc.edu.cn/info/1049/5341.htm)
 
 ~~【报名截止：8.28】[电子科学与工程学院](https://www.ese.uestc.edu.cn/info/5085/21377.htm)~~
@@ -488,7 +500,11 @@
 
 > [华中科技大学预推免信息](https://gszs.hust.edu.cn/info/1106/3841.htm)
 
+【报名截止：N/A】[软件学院](https://sse.hust.edu.cn/info/1022/3819.htm)
+
 【报名截止：N/A】[计算机科学与技术学院](https://cs.hust.edu.cn/info/1439/4268.htm)
+
+【报名截止：N/A】[计算机科学与技术学院-复试工作安排](http://www.cs.hust.edu.cn/info/1439/4319.htm)
 
 【报名截止：N/A】[国优计划](https://gszs.hust.edu.cn/info/1106/3843.htm)
 
@@ -513,6 +529,8 @@
 ## 西北工业大学
 
 > [西北工业大学预推免信息](https://yzb.nwpu.edu.cn/info/1174/9288.htm)
+
+【报名截止：9.24】[电子信息学院](https://dianzi.nwpu.edu.cn/info/1507/30571.htm)
 
 【报名截止：9.22】[航海学院](https://hanghai.nwpu.edu.cn/info/1548/20502.htm)
 
