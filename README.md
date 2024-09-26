@@ -364,6 +364,8 @@
 
 【报名截止：N/A】[自动化学院](https://ac.bit.edu.cn/tzgg/e579c9b60e0443159ad202ab1db2c033.htm)
 
+~~【报名截止：9.26】[珠海校区](https://mp.weixin.qq.com/s/xcsLuIxOQE5e0TDyFqRz8g)~~
+
 ~~【报名截止：9.26】[数学与统计学院](https://math.bit.edu.cn/tzgg/8dc2874b93454df3a4b5192353d9d15b.htm)~~
 
 ~~【报名截止：9.26】[计算机学院](https://cs.bit.edu.cn/tzgg/72d246c1da6f4a22a66d2e8c1438222d.htm)~~
@@ -806,7 +808,9 @@
 
 ## 西安电子科技大学
 
- > [西安电子科技大学报名信息](https://gr.xidian.edu.cn/info/1074/13515.htm) |  > [西安电子科技大学接收工作实施方案](https://gr.xidian.edu.cn/info/1074/13824.htm)
+> [西安电子科技大学报名信息](https://gr.xidian.edu.cn/info/1074/13515.htm) |  > [西安电子科技大学接收工作实施方案](https://gr.xidian.edu.cn/info/1074/13824.htm)
+
+【报名截止：9.30】[​空间科学与技术学院](https://sast.xidian.edu.cn/info/1014/6885.htm)
 
 ~~【报名截止：9.25】[​生命科学技术学院](https://life.xidian.edu.cn/info/1048/6911.htm)~~
 
