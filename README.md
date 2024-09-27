@@ -296,7 +296,7 @@
 
 【报名截止：N/A】[海洋科学与技术学院](https://marine.tju.edu.cn/info/1036/3642.htm)
 
-【报名截止：9.27】[直博生报名](https://yzb.tju.edu.cn/xwzx/tkbs_xw/202409/t20240905_323897.htm)
+~~【报名截止：9.27】[直博生报名](https://yzb.tju.edu.cn/xwzx/tkbs_xw/202409/t20240905_323897.htm)~~
 
 ~~【报名截止：9.20】[微电子学院](https://sme.tju.edu.cn/info/1099/2974.htm)~~
 
@@ -428,7 +428,7 @@
 
 ## 武汉大学
 
-【报名截止：9.27】 [遥感信息工程学院](https://rsgis.whu.edu.cn/info/1083/98610.htm)
+~~【报名截止：9.27】 [遥感信息工程学院](https://rsgis.whu.edu.cn/info/1083/98610.htm)~~
 
 ~~【报名截止：9.23】 [电子信息学院](http://eis.whu.edu.cn/index/newListDetail_zw?newsinfo_id=ebbbca5f42b34a699a1e9b202b5d1c05)~~
 
@@ -734,7 +734,7 @@
 
 【报名截止：9.28】[国家空间科学中心](http://www.nssc.cas.cn/yjsb/zsxx/zsdt/202407/t20240705_7213268.html)
 
-【报名截止：9.27】[重庆研究院](http://www.cigit.cas.cn/yjsjy/sszs/ssjz/202409/t20240923_7378571.html)
+~~【报名截止：9.27】[重庆研究院](http://www.cigit.cas.cn/yjsjy/sszs/ssjz/202409/t20240923_7378571.html)~~
 
 ~~【报名截止：9.25】[上海微系统与信息技术研究所](https://sim.cas.cn/yjs/zsxx/yjs_sszs/202408/t20240815_7273382.html)~~
 
@@ -922,7 +922,7 @@
 
 【报名截止：N/A】[信息工程学院](https://sie.cugb.edu.cn/c/2024-09-14/809086.shtml)
 
-【报名截止：9.27】[(武汉)计算机学院 ](https://cs.cug.edu.cn/info/1021/6670.htm)
+~~【报名截止：9.27】[(武汉)计算机学院 ](https://cs.cug.edu.cn/info/1021/6670.htm)~~
 
 ## 中国石油大学
 
@@ -1200,7 +1200,7 @@
 
 ## 成都理工大学
 
-【报名截止：9.27】[计算机与网络安全学院](https://cist.cdut.edu.cn/info/1145/6534.htm)
+~~【报名截止：9.27】[计算机与网络安全学院](https://cist.cdut.edu.cn/info/1145/6534.htm)~~
 
 ## 辽宁大学
 
@@ -1212,11 +1212,11 @@
 
 ## 江南大学
 
-【报名截止：9.27】[人工智能与计算机学院（软件学院）](https://ai.jiangnan.edu.cn/info/1020/3924.htm)
+~~【报名截止：9.27】[人工智能与计算机学院（软件学院）](https://ai.jiangnan.edu.cn/info/1020/3924.htm)~~
 
-【报名截止：9.27】[智能制造学院](https://junyuan.jiangnan.edu.cn/info/1019/2153.htm)
+~~【报名截止：9.27】[智能制造学院](https://junyuan.jiangnan.edu.cn/info/1019/2153.htm)~~
 
-【报名截止：9.27】[物联网工程学院](https://iot.jiangnan.edu.cn/info/1022/3936.htm)
+~~【报名截止：9.27】[物联网工程学院](https://iot.jiangnan.edu.cn/info/1022/3936.htm)~~
 
 ## 湘潭大学
 
@@ -1374,7 +1374,7 @@
 
 ##  哈尔滨工程大学
 
-【报名截止：9.27】[智能科学与工程学院](https://cisse.hrbeu.edu.cn/info/1219/4936.htm)
+~~【报名截止：9.27】[智能科学与工程学院](https://cisse.hrbeu.edu.cn/info/1219/4936.htm)~~
 
 ## 哈尔滨理工大学
 
