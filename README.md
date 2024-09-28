@@ -732,7 +732,7 @@
 
 【报名截止：9.30】[微小卫星创新研究院](https://microsate.cas.cn/yajsjy/sszsxx/202408/t20240815_7273355.html)
 
-【报名截止：9.28】[国家空间科学中心](http://www.nssc.cas.cn/yjsb/zsxx/zsdt/202407/t20240705_7213268.html)
+~~【报名截止：9.28】[国家空间科学中心](http://www.nssc.cas.cn/yjsb/zsxx/zsdt/202407/t20240705_7213268.html)~~
 
 ~~【报名截止：9.27】[重庆研究院](http://www.cigit.cas.cn/yjsjy/sszs/ssjz/202409/t20240923_7378571.html)~~
 
@@ -970,7 +970,7 @@
 
 > [深圳大学预推免信息](https://yz.szu.edu.cn/info/1007/13001.htm)
 
-【报名截止：9.28（暂定）】[数学科学学院](https://math.szu.edu.cn/info/1051/3974.htm)
+~~【报名截止：9.28（暂定）】[数学科学学院](https://math.szu.edu.cn/info/1051/3974.htm)~~
 
 【报名截止：N/A】[中国经济特区研究中心](http://www.ccsezr.org.cn/index.php?m=content&c=index&a=show&catid=42&id=291)
 
@@ -982,7 +982,7 @@
 
 ## 上海科技大学
 
-【报名截止：9.28】[信息科学与技术学院-工程硕博](https://mp.weixin.qq.com/s/RGRN3aJJhMgyQWtleu8X6w)
+~~【报名截止：9.28】[信息科学与技术学院-工程硕博](https://mp.weixin.qq.com/s/RGRN3aJJhMgyQWtleu8X6w)~~
 
 ~~【报名截止：9.20】[信息学院](https://sist.shanghaitech.edu.cn/2024/0731/c2863a1100077/page.htm)~~
 
